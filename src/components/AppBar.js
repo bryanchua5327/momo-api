@@ -5,7 +5,7 @@ import { SearchOutlined, MenuOutlined } from "@ant-design/icons";
 const { Header } = Layout;
 
 const AppBar = ({ onSearch }) => {
-  const [searchValue, setSearchValue] = useState("");
+  const [searchValue, setSearchValue] = useState("970417-07-3958");
 
   const handleSearch = () => {
     onSearch(searchValue);
