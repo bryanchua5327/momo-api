@@ -6,7 +6,7 @@ export default function DemoDecompositionTreeGraph({ data }) {
     const config = {
         data,
         nodeCfg: {
-            size: [140, 25],
+            size: [180, 25],
             percent: {
                 position: 'bottom',
                 size: 4,

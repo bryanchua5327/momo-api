@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from "react";
 import AppBar from "./components/AppBar";
-import { Col, Row, Card, Table, Tag, Statistic, Spin } from "antd";
+import { Col, Row, Card, Table, Tag, Statistic, Spin, Divider } from "antd";
 import { fetchUserTransactions } from "./utils/api";
 import MalaysiaMap from "./components/MalaysiaMap";
 // import NetworkGraph from "./components/NetworkGraph";
 import { ClientMap, ClientImageMap } from "./state/client";
-
 // fetchUserTransactions("970417-07-3958");
 
 export default function Home() {
@@ -138,6 +137,11 @@ export default function Home() {
             {
                 loading ? <Spin></Spin> :
                     <div className="tw-p-4">
+                        <div className="tw-font-light tw-text-sm tw-absolute" style={{ right: "10px" }}>
+                            HIGHLY CONFIDENTIAL INFORMATION</div>
+
+                        <div className="tw-font-bold tw-mb-4 tw-text-2xl">Transaction Metrics</div>
+
                         <Row gutter={[16, 16]}>
                             <Col span={18}>
                                 <Row gutter={[16, 16]}>
@@ -196,8 +200,9 @@ export default function Home() {
                                 </div>
                             </Col>
                         </Row>
+                        <Divider></Divider>
+                        <div className="tw-font-bold tw-mb-4 tw-text-2xl">Transaction History</div>
                         <Card className="tw-mt-4">
-                            <p className="tw-text-lg">All Transactions</p>
                             <Table
                                 columns={allTxnsColumns}
                                 dataSource={userTxns.map((obj, index) => {
@@ -206,6 +211,8 @@ export default function Home() {
                             />
 
                         </Card>
+                        <div className="tw-font-light tw-mb-4 tw-text-sm">
+                            "CONFIDENTIAL: The contents of this page are highly classified and strictly confidential. Unauthorized access, disclosure, or dissemination of the information contained herein is strictly prohibited and may result in severe legal consequences. This page contains sensitive and privileged information that is intended solely for authorized individuals or entities.</div>
                     </div >
             }
         </div >
