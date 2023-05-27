@@ -7,9 +7,6 @@ const CardScore = ({ metric, value, comparison = null }) => {
     <Card
       size="large"
       // extra={<a href="#">More</a>}
-      style={{
-        width: 300,
-      }}
     >
       <p className="tw-text-base tw-text-red-900">{metric}</p>
       <p className="tw-text-2xl	">
