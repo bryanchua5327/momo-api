@@ -1,1602 +1,1702 @@
 [
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "92fe868f-6e62-4f0c-a105-8ac780a4344a",
-        "client_id": 1535,
-        "transaction_date": "2023-04-16T22:34:14.431037",
-        "transaction_amount": 252,
+        "transaction_id": "1140dde8-3217-41a3-a237-c83e64e6996f",
+        "client_id": "1005",
+        "transaction_date": "2022-10-25T01:34:00.491265",
+        "transaction_amount": 159.45,
         "transaction_details": "Books",
-        "transacted_to": "589024-17-4218",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 68,
-        "coors": {
-            "latitude": "3.204671",
-            "longitude": "101.738426"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "649589c9-3411-43b1-a544-d85a4ed2dee8",
-        "client_id": 9086,
-        "transaction_date": "2023-03-14T22:34:14.431037",
-        "transaction_amount": 926,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "680031-18-2789",
-        "is_anomaly": "Yes",
+        "transacted_to": "848282-32-3975",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 36,
-        "coors": {
-            "latitude": "3.197348",
-            "longitude": "101.713363"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "9eb16e00-2e87-4fe9-a222-e2d1e6059c75",
-        "client_id": 6508,
-        "transaction_date": "2022-06-03T22:34:14.431037",
-        "transaction_amount": 265,
-        "transaction_details": "Clothing",
-        "transacted_to": "720505-96-2396",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 70,
-        "coors": {
-            "latitude": "3.195879",
-            "longitude": "101.733824"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "aaf4326c-ceb4-4447-8163-ca6c261340d4",
-        "client_id": 4025,
-        "transaction_date": "2023-05-16T22:34:14.431037",
-        "transaction_amount": 686,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "677855-17-1238",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 89,
-        "coors": {
-            "latitude": "3.230608",
-            "longitude": "101.734006"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "9aa346e3-1fa1-4afb-8888-b3fe974c93d2",
-        "client_id": 1843,
-        "transaction_date": "2023-04-01T22:34:14.431037",
-        "transaction_amount": 731,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "450757-62-4638",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 91,
-        "coors": {
-            "latitude": "3.103303",
-            "longitude": "101.727758"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "a0fa1428-8a25-44d6-9149-582a5a819562",
-        "client_id": 1394,
-        "transaction_date": "2022-09-09T22:34:14.431037",
-        "transaction_amount": 315,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "715710-29-8825",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 53,
-        "coors": {
-            "latitude": "3.062182",
-            "longitude": "101.706006"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "c97f7a97-5dc7-4d24-8035-d92517c832a8",
-        "client_id": 8352,
-        "transaction_date": "2022-08-21T22:34:14.431037",
-        "transaction_amount": 755,
-        "transaction_details": "Books",
-        "transacted_to": "901910-81-3160",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 4,
-        "coors": {
-            "latitude": "3.097239",
-            "longitude": "101.678556"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "a85a7f54-9b70-4f5a-924f-a700365c7c63",
-        "client_id": 4151,
-        "transaction_date": "2022-09-01T22:34:14.431037",
-        "transaction_amount": 466,
-        "transaction_details": "Clothing",
-        "transacted_to": "471715-52-4663",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 45,
-        "coors": {
-            "latitude": "3.174949",
-            "longitude": "101.643158"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d5199402-e030-487b-95a3-5d9622a1d2e5",
-        "client_id": 6524,
-        "transaction_date": "2023-04-14T22:34:14.431037",
-        "transaction_amount": 902,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "198640-12-1156",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 30,
-        "coors": {
-            "latitude": "3.224165",
-            "longitude": "101.590588"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "5b7cd199-903b-4916-8960-b7949999c02c",
-        "client_id": 6429,
-        "transaction_date": "2022-12-29T22:34:14.431037",
-        "transaction_amount": 778,
-        "transaction_details": "Clothing",
-        "transacted_to": "987274-14-4656",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 40,
-        "coors": {
-            "latitude": "3.123974",
-            "longitude": "101.597971"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "05882fff-e1d0-4c4d-bef0-d19a7d2864c7",
-        "client_id": 3566,
-        "transaction_date": "2023-04-20T22:34:14.431037",
-        "transaction_amount": 434,
-        "transaction_details": "Electronics",
-        "transacted_to": "671364-93-4788",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 35,
-        "coors": {
-            "latitude": "3.168941",
-            "longitude": "101.709952"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "85ca4daa-06cd-4d02-bdb0-e767d383bde5",
-        "client_id": 6390,
-        "transaction_date": "2022-12-29T22:34:14.431037",
-        "transaction_amount": 985,
-        "transaction_details": "Clothing",
-        "transacted_to": "494707-46-2518",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 4,
-        "coors": {
-            "latitude": "3.095755",
-            "longitude": "101.689903"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "0aa9c410-d82b-4d4c-afdf-16ac0f45d690",
-        "client_id": 9216,
-        "transaction_date": "2022-10-30T22:34:14.431037",
-        "transaction_amount": 193,
-        "transaction_details": "Electronics",
-        "transacted_to": "197314-41-7049",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 15,
-        "coors": {
-            "latitude": "3.209100",
-            "longitude": "101.656064"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "21b232b4-fab5-4363-930e-29a9c79dc7df",
-        "client_id": 3569,
-        "transaction_date": "2022-09-16T22:34:14.431037",
-        "transaction_amount": 469,
-        "transaction_details": "Electronics",
-        "transacted_to": "937677-46-5113",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 51,
-        "coors": {
-            "latitude": "3.166351",
-            "longitude": "101.619635"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "ff535051-10a8-4350-9e57-5dff9c138d5c",
-        "client_id": 1431,
-        "transaction_date": "2022-07-19T22:34:14.431037",
-        "transaction_amount": 102,
-        "transaction_details": "Books",
-        "transacted_to": "580721-54-1582",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 20,
-        "coors": {
-            "latitude": "3.235711",
-            "longitude": "101.673475"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "b6f87681-600b-419b-ae96-cee068054b22",
-        "client_id": 7461,
-        "transaction_date": "2023-01-22T22:34:14.431037",
-        "transaction_amount": 621,
-        "transaction_details": "Electronics",
-        "transacted_to": "434650-33-7604",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
         "user_score": 44,
-        "coors": {
-            "latitude": "3.208653",
-            "longitude": "101.601487"
-        }
+        "transaction_location": {
+            "latitude": "3.199304",
+            "longitude": "101.672529"
+        },
+        "fraud_score": 17
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "82710b35-b5eb-4dbe-aa8d-92c0d72c8434",
-        "client_id": 1209,
-        "transaction_date": "2023-01-17T22:34:14.431037",
-        "transaction_amount": 985,
+        "transaction_id": "26307063-1a6e-472a-8b61-97c3740d64fd",
+        "client_id": "1005",
+        "transaction_date": "2023-03-13T01:34:00.491277",
+        "transaction_amount": 887.78,
+        "transaction_details": "Books",
+        "transacted_to": "727201-85-4225",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 91,
+        "transaction_location": {
+            "latitude": "3.237032",
+            "longitude": "101.669185"
+        },
+        "fraud_score": 0
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "261fd87f-ca0c-49e3-b66d-bad7cd0c4f49",
+        "client_id": "1002",
+        "transaction_date": "2022-10-03T01:34:00.491286",
+        "transaction_amount": 635.59,
+        "transaction_details": "Books",
+        "transacted_to": "811104-11-9852",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 84,
+        "transaction_location": {
+            "latitude": "3.050745",
+            "longitude": "101.669004"
+        },
+        "fraud_score": 12
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "d532ec81-d8f1-45b7-ba5d-384cea2bdef4",
+        "client_id": "1004",
+        "transaction_date": "2023-01-02T01:34:00.491294",
+        "transaction_amount": 935.02,
         "transaction_details": "Home Appliances",
-        "transacted_to": "991434-51-7983",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
+        "transacted_to": "268455-14-3513",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 83,
+        "transaction_location": {
+            "latitude": "3.146288",
+            "longitude": "101.615944"
+        },
+        "fraud_score": 48
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "4affba79-86d1-4cdc-84cf-ae671d4b4db2",
+        "client_id": "1003",
+        "transaction_date": "2022-11-11T01:34:00.491302",
+        "transaction_amount": 342.01,
+        "transaction_details": "Books",
+        "transacted_to": "650811-02-5485",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 49,
+        "transaction_location": {
+            "latitude": "3.061634",
+            "longitude": "101.692563"
+        },
+        "fraud_score": 27
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "90b83b2b-70d9-4716-a318-bbddd2f18f93",
+        "client_id": "1001",
+        "transaction_date": "2022-10-13T01:34:00.491310",
+        "transaction_amount": 548.96,
+        "transaction_details": "Books",
+        "transacted_to": "209528-46-2214",
+        "is_anomaly": false,
+        "anomaly_type": "",
         "user_score": 70,
-        "coors": {
-            "latitude": "3.057591",
-            "longitude": "101.735633"
-        }
+        "transaction_location": {
+            "latitude": "3.204436",
+            "longitude": "101.699943"
+        },
+        "fraud_score": 8
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "22418401-8f95-4f7d-8dab-5c94cae28bb0",
-        "client_id": 9027,
-        "transaction_date": "2022-11-07T22:34:14.431037",
-        "transaction_amount": 55,
-        "transaction_details": "Clothing",
-        "transacted_to": "649084-75-9478",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 19,
-        "coors": {
-            "latitude": "3.126067",
-            "longitude": "101.702393"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "e4f07157-7315-4bbe-a2a4-1a88ba75f599",
-        "client_id": 6851,
-        "transaction_date": "2022-12-21T22:34:14.431037",
-        "transaction_amount": 789,
-        "transaction_details": "Books",
-        "transacted_to": "440686-45-8315",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 48,
-        "coors": {
-            "latitude": "3.122865",
-            "longitude": "101.627465"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "88041168-2e46-4ca1-a23e-54b574bb5033",
-        "client_id": 9999,
-        "transaction_date": "2023-02-10T22:34:14.431037",
-        "transaction_amount": 186,
-        "transaction_details": "Clothing",
-        "transacted_to": "522543-18-1026",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 77,
-        "coors": {
-            "latitude": "3.160990",
-            "longitude": "101.624922"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "1e2764b8-1b76-4f6a-94e7-28555a5e3c1b",
-        "client_id": 1564,
-        "transaction_date": "2023-04-29T22:34:14.431037",
-        "transaction_amount": 500,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "472758-24-8802",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 68,
-        "coors": {
-            "latitude": "3.225105",
-            "longitude": "101.671845"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "e120553c-a9f6-46a1-8daa-42f36ce4eb51",
-        "client_id": 8058,
-        "transaction_date": "2022-10-30T22:34:14.431037",
-        "transaction_amount": 182,
-        "transaction_details": "Books",
-        "transacted_to": "458063-56-4741",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 31,
-        "coors": {
-            "latitude": "3.121368",
-            "longitude": "101.690941"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "51017064-4524-40f2-b226-c0b623120283",
-        "client_id": 9325,
-        "transaction_date": "2022-07-14T22:34:14.431037",
-        "transaction_amount": 496,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "756400-71-5574",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 50,
-        "coors": {
-            "latitude": "3.157858",
-            "longitude": "101.666959"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "430c6af2-1f26-4ff1-84bd-0f71d47ef9f2",
-        "client_id": 1151,
-        "transaction_date": "2022-09-30T22:34:14.431037",
-        "transaction_amount": 619,
-        "transaction_details": "Books",
-        "transacted_to": "466494-35-2965",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 50,
-        "coors": {
-            "latitude": "3.059832",
-            "longitude": "101.706516"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "086c6042-d9b9-4f3e-b374-65d03914bd8a",
-        "client_id": 5461,
-        "transaction_date": "2023-02-12T22:34:14.431037",
-        "transaction_amount": 74,
-        "transaction_details": "Clothing",
-        "transacted_to": "316630-17-3369",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 7,
-        "coors": {
-            "latitude": "3.066849",
-            "longitude": "101.666715"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "7aa10d1a-f328-4fb9-a262-bc9ce5e09c83",
-        "client_id": 4556,
-        "transaction_date": "2022-07-01T22:34:14.431037",
-        "transaction_amount": 559,
+        "transaction_id": "8aa407d5-605d-493d-b788-4348ae72a88d",
+        "client_id": "1002",
+        "transaction_date": "2023-02-03T01:34:00.491318",
+        "transaction_amount": 785.95,
         "transaction_details": "Electronics",
-        "transacted_to": "988353-28-3913",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 58,
-        "coors": {
-            "latitude": "3.040864",
-            "longitude": "101.702318"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "75ef4aad-44cf-4a91-be40-70d8c45aafee",
-        "client_id": 4729,
-        "transaction_date": "2023-02-05T22:34:14.431037",
-        "transaction_amount": 567,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "706731-62-1337",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
+        "transacted_to": "778038-18-9402",
+        "is_anomaly": false,
+        "anomaly_type": "",
         "user_score": 14,
-        "coors": {
-            "latitude": "3.144700",
-            "longitude": "101.718993"
-        }
+        "transaction_location": {
+            "latitude": "3.065556",
+            "longitude": "101.692829"
+        },
+        "fraud_score": 16
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "1a435ffe-b09f-4e10-b8ee-2cf93ac7a31b",
-        "client_id": 6774,
-        "transaction_date": "2023-03-20T22:34:14.431037",
-        "transaction_amount": 188,
-        "transaction_details": "Electronics",
-        "transacted_to": "817839-26-4186",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 85,
-        "coors": {
-            "latitude": "3.034473",
-            "longitude": "101.654441"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "da06be22-504a-4e07-822c-bbe3410b3a0b",
-        "client_id": 1213,
-        "transaction_date": "2023-05-25T22:34:14.431037",
-        "transaction_amount": 620,
-        "transaction_details": "Electronics",
-        "transacted_to": "106272-50-3744",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 81,
-        "coors": {
-            "latitude": "3.052632",
-            "longitude": "101.635198"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "3a6510bb-8847-4b61-99e0-60eb7d285d57",
-        "client_id": 8389,
-        "transaction_date": "2023-04-27T22:34:14.431037",
-        "transaction_amount": 560,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "173125-11-3282",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 66,
-        "coors": {
-            "latitude": "3.043876",
-            "longitude": "101.627036"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "2258fe02-9f79-48d7-b065-42f57ce10d6b",
-        "client_id": 8017,
-        "transaction_date": "2023-01-12T22:34:14.431037",
-        "transaction_amount": 138,
-        "transaction_details": "Electronics",
-        "transacted_to": "337998-36-9268",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 55,
-        "coors": {
-            "latitude": "3.101026",
-            "longitude": "101.683783"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "69b051d7-9f1c-474f-932f-2a4b27ee986f",
-        "client_id": 1387,
-        "transaction_date": "2022-07-14T22:34:14.431037",
-        "transaction_amount": 181,
+        "transaction_id": "bc3312e7-1e87-4ffa-aa1e-bdf1e6ab26b7",
+        "client_id": "1003",
+        "transaction_date": "2023-03-11T01:34:00.491325",
+        "transaction_amount": 241.9,
         "transaction_details": "Books",
-        "transacted_to": "439907-26-6249",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 98,
-        "coors": {
-            "latitude": "3.127816",
-            "longitude": "101.611579"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "ff702425-93cd-4518-be16-8ba7f1eb8f88",
-        "client_id": 2991,
-        "transaction_date": "2022-08-02T22:34:14.431037",
-        "transaction_amount": 540,
-        "transaction_details": "Books",
-        "transacted_to": "695990-19-7749",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 27,
-        "coors": {
-            "latitude": "3.169343",
-            "longitude": "101.719530"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "bf628d02-85fa-4405-a727-9be6618d680d",
-        "client_id": 3270,
-        "transaction_date": "2023-02-20T22:34:14.431037",
-        "transaction_amount": 420,
-        "transaction_details": "Clothing",
-        "transacted_to": "188638-23-2857",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 25,
-        "coors": {
-            "latitude": "3.203376",
-            "longitude": "101.731999"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "5f87414f-bf25-4062-b363-1744b11ae9c8",
-        "client_id": 9678,
-        "transaction_date": "2022-05-27T22:34:14.431037",
-        "transaction_amount": 306,
-        "transaction_details": "Books",
-        "transacted_to": "888793-38-2882",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 92,
-        "coors": {
-            "latitude": "3.166303",
-            "longitude": "101.616370"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "22ab1759-e5d2-4741-8f43-077927e1fb63",
-        "client_id": 3777,
-        "transaction_date": "2023-01-21T22:34:14.431037",
-        "transaction_amount": 848,
-        "transaction_details": "Electronics",
-        "transacted_to": "349553-98-2862",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 17,
-        "coors": {
-            "latitude": "3.083644",
-            "longitude": "101.680878"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d1e43147-d948-4ea3-a6eb-9a9240e4a468",
-        "client_id": 1555,
-        "transaction_date": "2022-09-27T22:34:14.431037",
-        "transaction_amount": 988,
-        "transaction_details": "Electronics",
-        "transacted_to": "659664-90-1015",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 57,
-        "coors": {
-            "latitude": "3.182057",
-            "longitude": "101.722862"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "0041d449-5a12-4d70-9355-500044cf788f",
-        "client_id": 9068,
-        "transaction_date": "2022-09-29T22:34:14.431037",
-        "transaction_amount": 431,
-        "transaction_details": "Clothing",
-        "transacted_to": "427544-20-5888",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 96,
-        "coors": {
-            "latitude": "3.057090",
-            "longitude": "101.711497"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "9d624f73-9178-42bd-9987-f5f46192ae5f",
-        "client_id": 3790,
-        "transaction_date": "2022-12-22T22:34:14.431037",
-        "transaction_amount": 907,
-        "transaction_details": "Electronics",
-        "transacted_to": "527620-12-1730",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 67,
-        "coors": {
-            "latitude": "3.056977",
-            "longitude": "101.654561"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "33839eb4-2e46-4a1e-b297-49bd28cb151c",
-        "client_id": 9857,
-        "transaction_date": "2022-07-15T22:34:14.432063",
-        "transaction_amount": 133,
-        "transaction_details": "Books",
-        "transacted_to": "927838-95-6481",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 89,
-        "coors": {
-            "latitude": "3.170284",
-            "longitude": "101.591655"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "7da773d0-a656-4a65-b862-bbe12d29abf3",
-        "client_id": 4308,
-        "transaction_date": "2022-10-12T22:34:14.432063",
-        "transaction_amount": 577,
-        "transaction_details": "Electronics",
-        "transacted_to": "957062-17-5032",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 50,
-        "coors": {
-            "latitude": "3.049223",
-            "longitude": "101.707567"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "1899dd6f-93a2-4df5-9197-0244e063b4f8",
-        "client_id": 3279,
-        "transaction_date": "2022-11-11T22:34:14.432063",
-        "transaction_amount": 580,
-        "transaction_details": "Books",
-        "transacted_to": "354509-32-1959",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 27,
-        "coors": {
-            "latitude": "3.081406",
-            "longitude": "101.675305"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "b106451e-728d-432f-8b5f-c12c1aa92ab7",
-        "client_id": 9557,
-        "transaction_date": "2022-08-28T22:34:14.432063",
-        "transaction_amount": 207,
-        "transaction_details": "Clothing",
-        "transacted_to": "389535-25-3529",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 92,
-        "coors": {
-            "latitude": "3.092524",
-            "longitude": "101.596740"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "5e948764-b93a-4190-9933-f08888f2c828",
-        "client_id": 5824,
-        "transaction_date": "2022-07-08T22:34:14.432063",
-        "transaction_amount": 462,
-        "transaction_details": "Clothing",
-        "transacted_to": "279084-20-2856",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 94,
-        "coors": {
-            "latitude": "3.114340",
-            "longitude": "101.646243"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "6bf25599-59fd-4449-8fa0-b8b87e6f4087",
-        "client_id": 1776,
-        "transaction_date": "2022-11-09T22:34:14.432063",
-        "transaction_amount": 97,
-        "transaction_details": "Clothing",
-        "transacted_to": "337259-63-2672",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 60,
-        "coors": {
-            "latitude": "3.157835",
-            "longitude": "101.715194"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "47a382da-7389-4122-8373-9bcce2ebf0c8",
-        "client_id": 9381,
-        "transaction_date": "2022-08-28T22:34:14.432063",
-        "transaction_amount": 858,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "910108-81-1290",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 90,
-        "coors": {
-            "latitude": "3.193327",
-            "longitude": "101.633265"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "4d6af901-99d0-49ee-b27a-f5db06d3ea47",
-        "client_id": 1179,
-        "transaction_date": "2023-01-25T22:34:14.432063",
-        "transaction_amount": 52,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "710004-67-8133",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 59,
-        "coors": {
-            "latitude": "3.125321",
-            "longitude": "101.677693"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "382b0804-8184-4f46-a613-322452c7ca57",
-        "client_id": 2813,
-        "transaction_date": "2023-03-09T22:34:14.432063",
-        "transaction_amount": 628,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "955749-91-8067",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 4,
-        "coors": {
-            "latitude": "3.195359",
-            "longitude": "101.737852"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "3ee629fe-d384-4c77-b74b-ee57b64d6691",
-        "client_id": 8781,
-        "transaction_date": "2023-03-11T22:34:14.432063",
-        "transaction_amount": 818,
-        "transaction_details": "Clothing",
-        "transacted_to": "895206-36-6175",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 87,
-        "coors": {
-            "latitude": "3.149848",
-            "longitude": "101.601475"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "ac91cb3e-94a9-4e04-b4e0-30ff11702d83",
-        "client_id": 5881,
-        "transaction_date": "2022-07-15T22:34:14.432063",
-        "transaction_amount": 709,
-        "transaction_details": "Electronics",
-        "transacted_to": "579250-38-9585",
-        "is_anomaly": "No",
+        "transacted_to": "117162-33-2931",
+        "is_anomaly": false,
         "anomaly_type": "",
         "user_score": 55,
-        "coors": {
-            "latitude": "3.236402",
-            "longitude": "101.609807"
-        }
+        "transaction_location": {
+            "latitude": "3.151263",
+            "longitude": "101.700076"
+        },
+        "fraud_score": 37
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "28233c04-f6df-4ec6-8327-f73d0385f221",
-        "client_id": 5435,
-        "transaction_date": "2023-05-02T22:34:14.432063",
-        "transaction_amount": 985,
-        "transaction_details": "Electronics",
-        "transacted_to": "560801-34-5972",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 43,
-        "coors": {
-            "latitude": "3.231820",
-            "longitude": "101.723587"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "2055c67f-5902-4711-bf1f-613cacd00d87",
-        "client_id": 6346,
-        "transaction_date": "2022-10-01T22:34:14.432063",
-        "transaction_amount": 754,
-        "transaction_details": "Electronics",
-        "transacted_to": "116604-14-7036",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 56,
-        "coors": {
-            "latitude": "3.128275",
-            "longitude": "101.659346"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "8fcfd547-02f0-4b97-9896-6083dfa7b66a",
-        "client_id": 8523,
-        "transaction_date": "2022-06-21T22:34:14.432063",
-        "transaction_amount": 714,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "239124-91-4660",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 72,
-        "coors": {
-            "latitude": "3.206478",
-            "longitude": "101.613522"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "54a23bb6-f19f-460a-9837-158190cdd4e2",
-        "client_id": 9398,
-        "transaction_date": "2023-05-02T22:34:14.432063",
-        "transaction_amount": 82,
-        "transaction_details": "Clothing",
-        "transacted_to": "632651-12-7065",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 42,
-        "coors": {
-            "latitude": "3.119831",
-            "longitude": "101.642194"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "a6a5025f-373d-445c-8de9-3e91d99434aa",
-        "client_id": 5038,
-        "transaction_date": "2023-05-17T22:34:14.432063",
-        "transaction_amount": 58,
-        "transaction_details": "Electronics",
-        "transacted_to": "470244-21-5270",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 41,
-        "coors": {
-            "latitude": "3.127383",
-            "longitude": "101.696448"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "4406196e-9697-43c8-b1a7-cf8de2db2df0",
-        "client_id": 9358,
-        "transaction_date": "2023-03-09T22:34:14.432063",
-        "transaction_amount": 418,
+        "transaction_id": "e6ed57be-ea95-49c3-adb8-4a8e8d1f049f",
+        "client_id": "1004",
+        "transaction_date": "2022-10-14T01:34:00.491334",
+        "transaction_amount": 584.98,
         "transaction_details": "Books",
-        "transacted_to": "734783-87-1945",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 66,
-        "coors": {
-            "latitude": "3.055621",
-            "longitude": "101.646759"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "85c5e507-73aa-4e15-96b3-3298e0bf684b",
-        "client_id": 9999,
-        "transaction_date": "2022-09-27T22:34:14.432063",
-        "transaction_amount": 814,
-        "transaction_details": "Books",
-        "transacted_to": "167662-80-3636",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 10,
-        "coors": {
-            "latitude": "3.139770",
-            "longitude": "101.681888"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "c808360c-925d-41a1-9b88-821047ac49b4",
-        "client_id": 1875,
-        "transaction_date": "2022-09-08T22:34:14.432063",
-        "transaction_amount": 653,
-        "transaction_details": "Clothing",
-        "transacted_to": "845261-44-4715",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 36,
-        "coors": {
-            "latitude": "3.206117",
-            "longitude": "101.737178"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d2ab12a4-157f-4179-8a97-cf5b2ae868aa",
-        "client_id": 4456,
-        "transaction_date": "2023-03-24T22:34:14.432063",
-        "transaction_amount": 354,
-        "transaction_details": "Books",
-        "transacted_to": "149363-97-9150",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 100,
-        "coors": {
-            "latitude": "3.223575",
-            "longitude": "101.737323"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "b305a045-a628-4ae5-ab93-81ea98f734c9",
-        "client_id": 3957,
-        "transaction_date": "2023-03-23T22:34:14.432063",
-        "transaction_amount": 121,
-        "transaction_details": "Clothing",
-        "transacted_to": "686384-85-1560",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
+        "transacted_to": "268455-14-3513",
+        "is_anomaly": false,
+        "anomaly_type": "",
         "user_score": 97,
-        "coors": {
-            "latitude": "3.179885",
-            "longitude": "101.640851"
-        }
+        "transaction_location": {
+            "latitude": "3.046982",
+            "longitude": "101.608883"
+        },
+        "fraud_score": 50
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "e55b83c6-1770-42da-b96f-9645c8a4cadf",
-        "client_id": 6822,
-        "transaction_date": "2022-12-03T22:34:14.432063",
-        "transaction_amount": 569,
+        "transaction_id": "55c9ebf3-705b-4e07-bccc-bbf283129834",
+        "client_id": "1004",
+        "transaction_date": "2023-05-01T01:34:00.491342",
+        "transaction_amount": 810.84,
         "transaction_details": "Clothing",
-        "transacted_to": "837257-54-8580",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 64,
-        "coors": {
-            "latitude": "3.105045",
-            "longitude": "101.678231"
-        }
+        "transacted_to": "209528-46-2214",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 83,
+        "transaction_location": {
+            "latitude": "3.060267",
+            "longitude": "101.665000"
+        },
+        "fraud_score": 42
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "6c041974-4b2d-4356-bc76-c6a1a072b03f",
-        "client_id": 7256,
-        "transaction_date": "2022-09-18T22:34:14.432063",
-        "transaction_amount": 755,
+        "transaction_id": "2e1224e3-7129-4ca3-9571-2654d3d406a3",
+        "client_id": "1001",
+        "transaction_date": "2022-12-03T01:34:00.491350",
+        "transaction_amount": 192.07,
         "transaction_details": "Electronics",
-        "transacted_to": "948540-25-1483",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 35,
-        "coors": {
-            "latitude": "3.180193",
-            "longitude": "101.672238"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "f751836a-d80a-401e-acd4-5dbcfa7abfc2",
-        "client_id": 8137,
-        "transaction_date": "2022-12-11T22:34:14.432063",
-        "transaction_amount": 576,
-        "transaction_details": "Books",
-        "transacted_to": "663083-51-1414",
-        "is_anomaly": "No",
+        "transacted_to": "117162-33-2931",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 78,
-        "coors": {
-            "latitude": "3.069537",
-            "longitude": "101.621228"
-        }
+        "user_score": 1,
+        "transaction_location": {
+            "latitude": "3.197680",
+            "longitude": "101.696332"
+        },
+        "fraud_score": 41
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "32991cb3-6fc8-444b-976c-47cfbf8c42ff",
-        "client_id": 6430,
-        "transaction_date": "2023-03-22T22:34:14.432063",
-        "transaction_amount": 835,
-        "transaction_details": "Clothing",
-        "transacted_to": "801566-74-5334",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 68,
-        "coors": {
-            "latitude": "3.074233",
-            "longitude": "101.693298"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "208b1bdc-2809-46bb-bbc7-027e43aec1ec",
-        "client_id": 9023,
-        "transaction_date": "2022-10-01T22:34:14.432063",
-        "transaction_amount": 893,
-        "transaction_details": "Clothing",
-        "transacted_to": "893406-60-8005",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 14,
-        "coors": {
-            "latitude": "3.039865",
-            "longitude": "101.662182"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "628c787c-da2f-4c37-b08c-3e6b120db240",
-        "client_id": 7351,
-        "transaction_date": "2023-01-31T22:34:14.432063",
-        "transaction_amount": 607,
-        "transaction_details": "Clothing",
-        "transacted_to": "312086-76-7836",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 57,
-        "coors": {
-            "latitude": "3.073492",
-            "longitude": "101.614779"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "5a3163e7-409b-43c8-80d6-4c0d6f57ae82",
-        "client_id": 3311,
-        "transaction_date": "2022-06-23T22:34:14.432063",
-        "transaction_amount": 639,
+        "transaction_id": "7ea82471-4f26-4630-8328-b421e9c735ab",
+        "client_id": "1004",
+        "transaction_date": "2022-08-16T01:34:00.491358",
+        "transaction_amount": 539.67,
         "transaction_details": "Home Appliances",
-        "transacted_to": "808680-10-9013",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 27,
-        "coors": {
-            "latitude": "3.148520",
-            "longitude": "101.596449"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d4ef6a3b-b541-4670-b0f5-ea9701e6dc6b",
-        "client_id": 7418,
-        "transaction_date": "2022-12-27T22:34:14.432063",
-        "transaction_amount": 663,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "729191-13-9592",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 47,
-        "coors": {
-            "latitude": "3.093449",
-            "longitude": "101.721822"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d8a09d36-8dcf-4a7a-afaf-f1820f418324",
-        "client_id": 9377,
-        "transaction_date": "2022-08-12T22:34:14.432063",
-        "transaction_amount": 241,
-        "transaction_details": "Books",
-        "transacted_to": "865178-39-8945",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 66,
-        "coors": {
-            "latitude": "3.199178",
-            "longitude": "101.646078"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "3a3d7dbf-fbca-4bc9-be26-ead9cc4d2d1e",
-        "client_id": 1639,
-        "transaction_date": "2022-11-06T22:34:14.432063",
-        "transaction_amount": 314,
-        "transaction_details": "Clothing",
-        "transacted_to": "835405-50-8476",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 32,
-        "coors": {
-            "latitude": "3.069217",
-            "longitude": "101.622191"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "2cb89740-3595-4c73-a3d3-aee14f042d06",
-        "client_id": 1511,
-        "transaction_date": "2023-04-27T22:34:14.432063",
-        "transaction_amount": 528,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "312363-50-6535",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 85,
-        "coors": {
-            "latitude": "3.155175",
-            "longitude": "101.663297"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "179a251c-ef78-4da3-841b-d99c96d2c225",
-        "client_id": 3837,
-        "transaction_date": "2023-04-01T22:34:14.432063",
-        "transaction_amount": 361,
-        "transaction_details": "Books",
-        "transacted_to": "840999-91-6050",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 96,
-        "coors": {
-            "latitude": "3.197929",
-            "longitude": "101.603097"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "1cd99592-c3aa-4a92-a9a3-93cbbe88f67e",
-        "client_id": 5259,
-        "transaction_date": "2022-09-12T22:34:14.432063",
-        "transaction_amount": 692,
-        "transaction_details": "Books",
-        "transacted_to": "701148-29-5044",
-        "is_anomaly": "Yes",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 31,
-        "coors": {
-            "latitude": "3.119053",
-            "longitude": "101.672679"
-        }
+        "user_score": 58,
+        "transaction_location": {
+            "latitude": "3.196511",
+            "longitude": "101.679307"
+        },
+        "fraud_score": 28
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "42895cda-67b3-4e5b-afbf-b33da0fde03e",
-        "client_id": 7419,
-        "transaction_date": "2023-04-25T22:34:14.432063",
-        "transaction_amount": 290,
-        "transaction_details": "Clothing",
-        "transacted_to": "859922-46-3263",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 19,
-        "coors": {
-            "latitude": "3.150612",
-            "longitude": "101.684010"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "abddce33-4269-4301-a1e5-a91321481afe",
-        "client_id": 2102,
-        "transaction_date": "2023-03-11T22:34:14.432063",
-        "transaction_amount": 203,
+        "transaction_id": "c476c345-a3a3-4389-9828-f9751d94d54d",
+        "client_id": "1003",
+        "transaction_date": "2022-08-05T01:34:00.491366",
+        "transaction_amount": 849.8,
         "transaction_details": "Books",
-        "transacted_to": "172904-77-1687",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 53,
-        "coors": {
-            "latitude": "3.218607",
-            "longitude": "101.674741"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "06579c44-7650-45e3-ba6d-05e925f8e9ef",
-        "client_id": 3943,
-        "transaction_date": "2022-08-21T22:34:14.432063",
-        "transaction_amount": 32,
-        "transaction_details": "Clothing",
-        "transacted_to": "613278-90-6989",
-        "is_anomaly": "Yes",
+        "transacted_to": "954358-31-7524",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 45,
-        "coors": {
-            "latitude": "3.171600",
-            "longitude": "101.634656"
-        }
+        "user_score": 9,
+        "transaction_location": {
+            "latitude": "3.106961",
+            "longitude": "101.672844"
+        },
+        "fraud_score": 4
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "0b495008-35ea-4965-9549-4ee679fb718f",
-        "client_id": 9982,
-        "transaction_date": "2022-11-21T22:34:14.432063",
-        "transaction_amount": 343,
+        "transaction_id": "e20a86be-d807-4153-b199-ca47436ebf9a",
+        "client_id": "1005",
+        "transaction_date": "2022-07-07T01:34:00.491374",
+        "transaction_amount": 574.51,
+        "transaction_details": "Books",
+        "transacted_to": "722772-30-3442",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 97,
+        "transaction_location": {
+            "latitude": "3.181287",
+            "longitude": "101.683247"
+        },
+        "fraud_score": 96
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "a79bb726-35ab-4837-846e-1dff68cc96b5",
+        "client_id": "1004",
+        "transaction_date": "2023-03-21T01:34:00.491382",
+        "transaction_amount": 78.8,
         "transaction_details": "Electronics",
-        "transacted_to": "490940-50-3820",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 100,
-        "coors": {
-            "latitude": "3.199142",
-            "longitude": "101.674003"
-        }
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 12,
+        "transaction_location": {
+            "latitude": "3.226809",
+            "longitude": "101.603120"
+        },
+        "fraud_score": 38
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "222b8ef5-b05e-4ba7-a483-3834e74e923d",
-        "client_id": 1910,
-        "transaction_date": "2022-12-07T22:34:14.432063",
-        "transaction_amount": 277,
+        "transaction_id": "c4e0ca9b-59e6-4d1e-9e6c-cd6870a2b3fb",
+        "client_id": "1002",
+        "transaction_date": "2023-05-27T01:34:00.491390",
+        "transaction_amount": 176.14,
         "transaction_details": "Clothing",
-        "transacted_to": "600932-94-4324",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 75,
-        "coors": {
-            "latitude": "3.095968",
-            "longitude": "101.601052"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "69a70ae9-38bc-4c9c-807a-dc257e9ae43b",
-        "client_id": 8538,
-        "transaction_date": "2022-11-20T22:34:14.432063",
-        "transaction_amount": 775,
-        "transaction_details": "Books",
-        "transacted_to": "681614-85-3974",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 85,
-        "coors": {
-            "latitude": "3.208131",
-            "longitude": "101.734065"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "c4bcd72c-f8c5-405c-a7e5-f6140d2e5e8b",
-        "client_id": 8029,
-        "transaction_date": "2022-05-31T22:34:14.432063",
-        "transaction_amount": 246,
-        "transaction_details": "Books",
-        "transacted_to": "603477-39-1517",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 48,
-        "coors": {
-            "latitude": "3.071714",
-            "longitude": "101.671084"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "d01e13b1-2085-4462-8d3b-471ad4fa69ad",
-        "client_id": 1508,
-        "transaction_date": "2022-11-17T22:34:14.432063",
-        "transaction_amount": 492,
-        "transaction_details": "Books",
-        "transacted_to": "748800-77-8557",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 76,
-        "coors": {
-            "latitude": "3.105450",
-            "longitude": "101.727476"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "9a04f2e3-41bf-4db9-9ba0-0ef4eb1cb59d",
-        "client_id": 8888,
-        "transaction_date": "2022-09-05T22:34:14.432063",
-        "transaction_amount": 499,
-        "transaction_details": "Home Appliances",
-        "transacted_to": "487715-90-7891",
-        "is_anomaly": "Yes",
+        "transacted_to": "116580-79-3375",
+        "is_anomaly": false,
         "anomaly_type": "",
         "user_score": 26,
-        "coors": {
-            "latitude": "3.089939",
-            "longitude": "101.740779"
-        }
+        "transaction_location": {
+            "latitude": "3.183123",
+            "longitude": "101.691813"
+        },
+        "fraud_score": 4
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "5e1036f9-8d83-489b-82f0-52e28a71da77",
-        "client_id": 8765,
-        "transaction_date": "2022-12-28T22:34:14.432063",
-        "transaction_amount": 367,
-        "transaction_details": "Books",
-        "transacted_to": "559244-42-8890",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 16,
-        "coors": {
-            "latitude": "3.178240",
-            "longitude": "101.639355"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "32a268be-32c6-4b14-a5a0-be3729dbe246",
-        "client_id": 5481,
-        "transaction_date": "2022-09-09T22:34:14.432063",
-        "transaction_amount": 629,
-        "transaction_details": "Clothing",
-        "transacted_to": "800702-55-4464",
-        "is_anomaly": "Yes",
-        "anomaly_type": "",
-        "user_score": 29,
-        "coors": {
-            "latitude": "3.107888",
-            "longitude": "101.639546"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "02da63ae-1e3d-4d4e-bc7b-22dab8cae1cc",
-        "client_id": 1494,
-        "transaction_date": "2023-04-25T22:34:14.432063",
-        "transaction_amount": 756,
-        "transaction_details": "Clothing",
-        "transacted_to": "781527-38-1784",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 12,
-        "coors": {
-            "latitude": "3.052845",
-            "longitude": "101.686398"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "8045f28c-c75f-498b-aaec-74437347f6a7",
-        "client_id": 6515,
-        "transaction_date": "2022-10-09T22:34:14.432063",
-        "transaction_amount": 418,
-        "transaction_details": "Electronics",
-        "transacted_to": "705966-46-8481",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 36,
-        "coors": {
-            "latitude": "3.156996",
-            "longitude": "101.659196"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "8ce2bd99-c6db-4e32-bec7-1241569aa99a",
-        "client_id": 1391,
-        "transaction_date": "2022-11-06T22:34:14.432063",
-        "transaction_amount": 25,
+        "transaction_id": "d5fae98f-e44e-43ac-81e0-8f61dc0cf8c3",
+        "client_id": "1002",
+        "transaction_date": "2023-03-13T01:34:00.491399",
+        "transaction_amount": 592.78,
         "transaction_details": "Home Appliances",
-        "transacted_to": "961568-38-2709",
-        "is_anomaly": "No",
-        "anomaly_type": "",
-        "user_score": 23,
-        "coors": {
-            "latitude": "3.180962",
-            "longitude": "101.604252"
-        }
+        "transacted_to": "270704-30-2172",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 49,
+        "transaction_location": {
+            "latitude": "3.129253",
+            "longitude": "101.599617"
+        },
+        "fraud_score": 70
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "ff6c80f9-4f0c-4ddf-9a96-6d2945cdc428",
-        "client_id": 6041,
-        "transaction_date": "2023-03-17T22:34:14.432063",
-        "transaction_amount": 791,
-        "transaction_details": "Clothing",
-        "transacted_to": "434258-70-8729",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 41,
-        "coors": {
-            "latitude": "3.057546",
-            "longitude": "101.589593"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "c78cbc31-d8a9-49d4-a774-fb9832b9154b",
-        "client_id": 6407,
-        "transaction_date": "2023-03-02T22:34:14.432063",
-        "transaction_amount": 854,
+        "transaction_id": "cf8967fc-7fd1-4b4b-8027-33af1b0a9249",
+        "client_id": "1003",
+        "transaction_date": "2022-10-24T01:34:00.491407",
+        "transaction_amount": 947.17,
         "transaction_details": "Books",
-        "transacted_to": "751769-16-7391",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
+        "transacted_to": "527389-68-2473",
+        "is_anomaly": false,
+        "anomaly_type": "",
         "user_score": 63,
-        "coors": {
-            "latitude": "3.079480",
-            "longitude": "101.635726"
-        }
+        "transaction_location": {
+            "latitude": "3.063748",
+            "longitude": "101.726768"
+        },
+        "fraud_score": 22
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "0a8e89e5-6719-46bd-b26f-a199917f3ee7",
-        "client_id": 5330,
-        "transaction_date": "2023-05-09T22:34:14.432063",
-        "transaction_amount": 452,
+        "transaction_id": "8754ab03-c941-439b-8530-33504ce8d521",
+        "client_id": "1003",
+        "transaction_date": "2023-05-27T01:34:00.491415",
+        "transaction_amount": 120.6,
+        "transaction_details": "Electronics",
+        "transacted_to": "375902-66-2829",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 18,
+        "transaction_location": {
+            "latitude": "3.168362",
+            "longitude": "101.630229"
+        },
+        "fraud_score": 17
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "b6eb300a-2a7e-49eb-982f-dc31a83fb461",
+        "client_id": "1004",
+        "transaction_date": "2022-12-28T01:34:00.491423",
+        "transaction_amount": 456.39,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "703778-40-2363",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 77,
+        "transaction_location": {
+            "latitude": "3.049334",
+            "longitude": "101.687211"
+        },
+        "fraud_score": 39
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "fc23955f-932b-4060-b636-f73b558bab95",
+        "client_id": "1005",
+        "transaction_date": "2023-01-28T01:34:00.491431",
+        "transaction_amount": 957.03,
+        "transaction_details": "Electronics",
+        "transacted_to": "469148-42-4218",
+        "is_anomaly": true,
+        "anomaly_type": "Unusually high",
+        "user_score": 86,
+        "transaction_location": {
+            "latitude": "3.162199",
+            "longitude": "101.681738"
+        },
+        "fraud_score": 63
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "8cfab077-6132-4892-90a1-88b6c5e2dd4a",
+        "client_id": "1005",
+        "transaction_date": "2022-11-22T01:34:00.491439",
+        "transaction_amount": 80.88,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 52,
+        "transaction_location": {
+            "latitude": "3.116810",
+            "longitude": "101.677249"
+        },
+        "fraud_score": 32
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "16b228e8-20f9-4618-8e01-30775753064b",
+        "client_id": "1004",
+        "transaction_date": "2022-08-03T01:34:00.491447",
+        "transaction_amount": 596.94,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "650811-02-5485",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 87,
+        "transaction_location": {
+            "latitude": "3.068728",
+            "longitude": "101.613051"
+        },
+        "fraud_score": 25
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "1b50c8fc-ff6c-4c25-bcd5-5534dda9b2d5",
+        "client_id": "1004",
+        "transaction_date": "2022-12-11T01:34:00.491456",
+        "transaction_amount": 930.69,
+        "transaction_details": "Electronics",
+        "transacted_to": "782906-94-7684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 68,
+        "transaction_location": {
+            "latitude": "3.090771",
+            "longitude": "101.708076"
+        },
+        "fraud_score": 15
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "7c32332b-2b98-422d-8d20-13c343bed730",
+        "client_id": "1003",
+        "transaction_date": "2022-12-08T01:34:00.491464",
+        "transaction_amount": 81.43,
         "transaction_details": "Clothing",
-        "transacted_to": "433153-16-4093",
-        "is_anomaly": "Yes",
+        "transacted_to": "423517-11-6424",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 16,
+        "transaction_location": {
+            "latitude": "3.218997",
+            "longitude": "101.623080"
+        },
+        "fraud_score": 45
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "997dc69f-a5f3-4fe5-8085-87bc5e462b85",
+        "client_id": "1005",
+        "transaction_date": "2023-04-27T01:34:00.491472",
+        "transaction_amount": 502.4,
+        "transaction_details": "Books",
+        "transacted_to": "642265-92-9088",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 60,
+        "transaction_location": {
+            "latitude": "3.042502",
+            "longitude": "101.671758"
+        },
+        "fraud_score": 18
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "dfd37643-e674-4f79-9ffe-5aa215b7c67b",
+        "client_id": "1002",
+        "transaction_date": "2023-03-30T01:34:00.491480",
+        "transaction_amount": 112.61,
+        "transaction_details": "Books",
+        "transacted_to": "727201-85-4225",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 57,
+        "transaction_location": {
+            "latitude": "3.191741",
+            "longitude": "101.727744"
+        },
+        "fraud_score": 41
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "2540013b-7779-4f88-9ffc-f3845edfffc1",
+        "client_id": "1005",
+        "transaction_date": "2022-10-26T01:34:00.491488",
+        "transaction_amount": 477.97,
+        "transaction_details": "Clothing",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 8,
+        "transaction_location": {
+            "latitude": "3.208219",
+            "longitude": "101.682506"
+        },
+        "fraud_score": 41
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "84fc3c21-a06d-42f7-8b0f-b190ee73fefc",
+        "client_id": "1004",
+        "transaction_date": "2023-05-24T01:34:00.491496",
+        "transaction_amount": 342.1,
+        "transaction_details": "Books",
+        "transacted_to": "865887-57-8251",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 19,
+        "transaction_location": {
+            "latitude": "3.111528",
+            "longitude": "101.608334"
+        },
+        "fraud_score": 44
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "8d82b103-5e1b-4796-94dd-40210a4fcdee",
+        "client_id": "1005",
+        "transaction_date": "2022-11-17T01:34:00.491504",
+        "transaction_amount": 493.51,
+        "transaction_details": "Books",
+        "transacted_to": "423517-11-6424",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 56,
+        "transaction_location": {
+            "latitude": "3.208528",
+            "longitude": "101.735307"
+        },
+        "fraud_score": 25
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "5f4b0b4a-2f53-425e-ad8e-2b247dd756f7",
+        "client_id": "1001",
+        "transaction_date": "2022-08-01T01:34:00.491512",
+        "transaction_amount": 583.13,
+        "transaction_details": "Electronics",
+        "transacted_to": "650811-02-5485",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 83,
+        "transaction_location": {
+            "latitude": "3.060852",
+            "longitude": "101.625458"
+        },
+        "fraud_score": 15
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "f150faa1-0909-44ec-a29d-8f80389df9a6",
+        "client_id": "1005",
+        "transaction_date": "2022-10-19T01:34:00.491520",
+        "transaction_amount": 66.42,
+        "transaction_details": "Clothing",
+        "transacted_to": "255983-55-3001",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 68,
+        "transaction_location": {
+            "latitude": "3.078564",
+            "longitude": "101.627236"
+        },
+        "fraud_score": 43
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "45c22342-1030-45b3-b7e4-50c23efba567",
+        "client_id": "1005",
+        "transaction_date": "2022-08-07T01:34:00.491528",
+        "transaction_amount": 655.7,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "650811-02-5485",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 11,
+        "transaction_location": {
+            "latitude": "3.115251",
+            "longitude": "101.714602"
+        },
+        "fraud_score": 20
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "898a7080-ab6f-42b0-8a91-d5001ca81160",
+        "client_id": "1005",
+        "transaction_date": "2023-03-09T01:34:00.491536",
+        "transaction_amount": 74.66,
+        "transaction_details": "Books",
+        "transacted_to": "642265-92-9088",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 80,
+        "transaction_location": {
+            "latitude": "3.066349",
+            "longitude": "101.594308"
+        },
+        "fraud_score": 4
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "5dd5f2d2-2e2b-4907-b3ba-e0ccdf539726",
+        "client_id": "1003",
+        "transaction_date": "2023-05-20T01:34:00.491544",
+        "transaction_amount": 684.25,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 52,
+        "transaction_location": {
+            "latitude": "3.230862",
+            "longitude": "101.694691"
+        },
+        "fraud_score": 20
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "1de92437-c7a4-468a-bcb3-afd3bfd0c5dd",
+        "client_id": "1001",
+        "transaction_date": "2023-01-24T01:34:00.491552",
+        "transaction_amount": 983.31,
+        "transaction_details": "Clothing",
+        "transacted_to": "209528-46-2214",
+        "is_anomaly": true,
+        "anomaly_type": "Unusually high",
+        "user_score": 29,
+        "transaction_location": {
+            "latitude": "3.039574",
+            "longitude": "101.616259"
+        },
+        "fraud_score": 76
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "190ee423-a2c3-416d-9c3d-e3c2fcba4e14",
+        "client_id": "1003",
+        "transaction_date": "2023-03-11T01:34:00.491560",
+        "transaction_amount": 534.74,
+        "transaction_details": "Electronics",
+        "transacted_to": "703778-40-2363",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 32,
+        "transaction_location": {
+            "latitude": "3.220923",
+            "longitude": "101.691337"
+        },
+        "fraud_score": 9
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "38de6e4c-81df-4780-94e2-8fdef5224ee7",
+        "client_id": "1005",
+        "transaction_date": "2023-02-15T01:34:00.491568",
+        "transaction_amount": 520.26,
+        "transaction_details": "Books",
+        "transacted_to": "778038-18-9402",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 81,
+        "transaction_location": {
+            "latitude": "3.119545",
+            "longitude": "101.624313"
+        },
+        "fraud_score": 22
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "83c6d458-cf13-4110-9ca1-a6e1c096b95e",
+        "client_id": "1002",
+        "transaction_date": "2023-04-03T01:34:00.491575",
+        "transaction_amount": 426.79,
+        "transaction_details": "Books",
+        "transacted_to": "632013-23-1945",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 37,
+        "transaction_location": {
+            "latitude": "3.180708",
+            "longitude": "101.644172"
+        },
+        "fraud_score": 20
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "13294838-64f5-49be-bb5f-cc439e89008f",
+        "client_id": "1001",
+        "transaction_date": "2022-07-01T01:34:00.491583",
+        "transaction_amount": 225.73,
+        "transaction_details": "Clothing",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 35,
+        "transaction_location": {
+            "latitude": "3.168357",
+            "longitude": "101.698099"
+        },
+        "fraud_score": 0
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "d18eef0e-1dbb-4f63-a19f-accf7d2e02c0",
+        "client_id": "1003",
+        "transaction_date": "2022-10-13T01:34:00.491591",
+        "transaction_amount": 461.72,
+        "transaction_details": "Books",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 85,
+        "transaction_location": {
+            "latitude": "3.140688",
+            "longitude": "101.734362"
+        },
+        "fraud_score": 12
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "9f5dd3f7-80ef-4c10-98de-e5447180e24d",
+        "client_id": "1001",
+        "transaction_date": "2022-06-28T01:34:00.491599",
+        "transaction_amount": 355.22,
+        "transaction_details": "Electronics",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 64,
+        "transaction_location": {
+            "latitude": "3.201079",
+            "longitude": "101.678319"
+        },
+        "fraud_score": 31
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "f396e52c-d041-4aff-8a19-78408420acc2",
+        "client_id": "1001",
+        "transaction_date": "2022-12-01T01:34:00.491608",
+        "transaction_amount": 747.06,
+        "transaction_details": "Clothing",
+        "transacted_to": "116580-79-3375",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 20,
+        "transaction_location": {
+            "latitude": "3.135851",
+            "longitude": "101.723640"
+        },
+        "fraud_score": 14
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "9da227d2-b2d8-452a-b16f-0394f6bc3177",
+        "client_id": "1003",
+        "transaction_date": "2022-10-22T01:34:00.491616",
+        "transaction_amount": 484.47,
+        "transaction_details": "Books",
+        "transacted_to": "782906-94-7684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 80,
+        "transaction_location": {
+            "latitude": "3.080421",
+            "longitude": "101.697534"
+        },
+        "fraud_score": 27
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "d8359e90-fd03-451b-aaf1-59cae354085a",
+        "client_id": "1001",
+        "transaction_date": "2022-07-09T01:34:00.491624",
+        "transaction_amount": 32.1,
+        "transaction_details": "Clothing",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
         "anomaly_type": "",
         "user_score": 5,
-        "coors": {
-            "latitude": "3.202732",
-            "longitude": "101.629518"
-        }
+        "transaction_location": {
+            "latitude": "3.168236",
+            "longitude": "101.707840"
+        },
+        "fraud_score": 18
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "779c37c1-0cd8-48ed-a417-5d748e83d8d3",
-        "client_id": 4602,
-        "transaction_date": "2022-12-20T22:34:14.432063",
-        "transaction_amount": 946,
-        "transaction_details": "Books",
-        "transacted_to": "259184-83-4428",
-        "is_anomaly": "Yes",
+        "transaction_id": "ba70988c-c1ed-457a-9e72-559b5b17f7ba",
+        "client_id": "1004",
+        "transaction_date": "2022-10-30T01:34:00.491631",
+        "transaction_amount": 318.57,
+        "transaction_details": "Electronics",
+        "transacted_to": "375902-66-2829",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 31,
-        "coors": {
-            "latitude": "3.236877",
-            "longitude": "101.656708"
-        }
+        "user_score": 98,
+        "transaction_location": {
+            "latitude": "3.141068",
+            "longitude": "101.661774"
+        },
+        "fraud_score": 17
     },
     {
         "user_id": "891006-10-1234",
-        "transaction_id": "c1db9faa-97d8-46e5-9c14-bc338dc36429",
-        "client_id": 2505,
-        "transaction_date": "2022-11-28T22:34:14.432063",
-        "transaction_amount": 318,
+        "transaction_id": "ee13f227-5253-4e40-80b6-33e36bf90a5b",
+        "client_id": "1001",
+        "transaction_date": "2022-11-14T01:34:00.491640",
+        "transaction_amount": 875.07,
         "transaction_details": "Home Appliances",
-        "transacted_to": "819465-97-6516",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 39,
-        "coors": {
-            "latitude": "3.048741",
-            "longitude": "101.650448"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "0c7464c5-6472-405e-8584-70a0a8836d31",
-        "client_id": 8697,
-        "transaction_date": "2022-10-28T22:34:14.432063",
-        "transaction_amount": 754,
-        "transaction_details": "Electronics",
-        "transacted_to": "480206-74-2864",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 31,
-        "coors": {
-            "latitude": "3.087285",
-            "longitude": "101.635202"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "39304d58-9ab3-46e4-ab25-18f62654d0f9",
-        "client_id": 7679,
-        "transaction_date": "2022-06-28T22:34:14.432063",
-        "transaction_amount": 186,
-        "transaction_details": "Electronics",
-        "transacted_to": "756005-56-4575",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 35,
-        "coors": {
-            "latitude": "3.121901",
-            "longitude": "101.736753"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "56b6ab42-2096-4e40-a06a-d85bc606b0a4",
-        "client_id": 7493,
-        "transaction_date": "2022-10-24T22:34:14.432063",
-        "transaction_amount": 420,
-        "transaction_details": "Clothing",
-        "transacted_to": "690980-65-2210",
-        "is_anomaly": "No",
-        "anomaly_type": "Suspicious",
-        "user_score": 73,
-        "coors": {
-            "latitude": "3.136601",
-            "longitude": "101.612849"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "3151682e-d37f-423a-b9df-2ff1d2e6cda9",
-        "client_id": 7961,
-        "transaction_date": "2022-09-28T22:34:14.432063",
-        "transaction_amount": 439,
-        "transaction_details": "Books",
-        "transacted_to": "257251-44-1700",
-        "is_anomaly": "No",
-        "anomaly_type": "Fraud",
-        "user_score": 27,
-        "coors": {
-            "latitude": "3.178773",
-            "longitude": "101.657567"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "3a17dc42-b558-48b0-bebf-bb05c9ebdfa1",
-        "client_id": 3198,
-        "transaction_date": "2023-03-28T22:34:14.432063",
-        "transaction_amount": 912,
-        "transaction_details": "Books",
-        "transacted_to": "204955-46-2595",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Fraud",
-        "user_score": 41,
-        "coors": {
-            "latitude": "3.183033",
-            "longitude": "101.593229"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "5e3bd782-d3dc-468b-a174-5d7b1a098d11",
-        "client_id": 3344,
-        "transaction_date": "2023-05-21T22:34:14.432063",
-        "transaction_amount": 894,
-        "transaction_details": "Clothing",
-        "transacted_to": "876331-72-9996",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 43,
-        "coors": {
-            "latitude": "3.091822",
-            "longitude": "101.625565"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "83059870-1aa8-4d56-a61c-ff4ceb894dde",
-        "client_id": 1220,
-        "transaction_date": "2022-06-16T22:34:14.432063",
-        "transaction_amount": 31,
-        "transaction_details": "Clothing",
-        "transacted_to": "904588-84-1410",
-        "is_anomaly": "Yes",
-        "anomaly_type": "Suspicious",
-        "user_score": 34,
-        "coors": {
-            "latitude": "3.193585",
-            "longitude": "101.640933"
-        }
-    },
-    {
-        "user_id": "891006-10-1234",
-        "transaction_id": "82d6970c-0cb3-472b-b76e-bb86f939b485",
-        "client_id": 8638,
-        "transaction_date": "2022-09-30T22:34:14.432063",
-        "transaction_amount": 73,
-        "transaction_details": "Clothing",
-        "transacted_to": "163406-70-2919",
-        "is_anomaly": "Yes",
+        "transacted_to": "891548-54-1466",
+        "is_anomaly": false,
         "anomaly_type": "",
-        "user_score": 54,
-        "coors": {
-            "latitude": "3.148675",
-            "longitude": "101.698458"
-        }
+        "user_score": 14,
+        "transaction_location": {
+            "latitude": "3.139999",
+            "longitude": "101.718398"
+        },
+        "fraud_score": 23
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "dfec6b49-48e9-4bb4-b696-9c274ade19fe",
+        "client_id": "1005",
+        "transaction_date": "2022-11-30T01:34:00.491647",
+        "transaction_amount": 333.74,
+        "transaction_details": "Electronics",
+        "transacted_to": "255983-55-3001",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 51,
+        "transaction_location": {
+            "latitude": "3.086545",
+            "longitude": "101.619087"
+        },
+        "fraud_score": 21
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "e3b86874-496e-4f03-96f6-4928065e333c",
+        "client_id": "1005",
+        "transaction_date": "2022-06-07T01:34:00.491656",
+        "transaction_amount": 140.82,
+        "transaction_details": "Books",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 44,
+        "transaction_location": {
+            "latitude": "3.075753",
+            "longitude": "101.595157"
+        },
+        "fraud_score": 5
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "3f256ed6-8be9-4d05-a59a-292d6f40bb49",
+        "client_id": "1002",
+        "transaction_date": "2022-11-06T01:34:00.491664",
+        "transaction_amount": 374.75,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "759491-14-7265",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 28,
+        "transaction_location": {
+            "latitude": "3.221282",
+            "longitude": "101.637626"
+        },
+        "fraud_score": 71
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "5f49ae4b-fd36-4146-9f33-14757e9e7bab",
+        "client_id": "1003",
+        "transaction_date": "2022-10-01T01:34:00.491672",
+        "transaction_amount": 690.89,
+        "transaction_details": "Books",
+        "transacted_to": "255983-55-3001",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 15,
+        "transaction_location": {
+            "latitude": "3.219890",
+            "longitude": "101.732884"
+        },
+        "fraud_score": 1
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "3313b8f1-5889-4a61-8e83-bf85692ae608",
+        "client_id": "1003",
+        "transaction_date": "2023-03-04T01:34:00.491680",
+        "transaction_amount": 59.76,
+        "transaction_details": "Clothing",
+        "transacted_to": "848282-32-3975",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 10,
+        "transaction_location": {
+            "latitude": "3.119868",
+            "longitude": "101.601267"
+        },
+        "fraud_score": 44
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "059e4cc7-09ad-487e-86ca-12890b348d37",
+        "client_id": "1003",
+        "transaction_date": "2022-11-08T01:34:00.491688",
+        "transaction_amount": 771.05,
+        "transaction_details": "Books",
+        "transacted_to": "891548-54-1466",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 71,
+        "transaction_location": {
+            "latitude": "3.162178",
+            "longitude": "101.613133"
+        },
+        "fraud_score": 9
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "99301676-a127-479e-97d9-14608e223442",
+        "client_id": "1002",
+        "transaction_date": "2022-08-16T01:34:00.491696",
+        "transaction_amount": 147.25,
+        "transaction_details": "Books",
+        "transacted_to": "920927-09-4678",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 29,
+        "transaction_location": {
+            "latitude": "3.198262",
+            "longitude": "101.724137"
+        },
+        "fraud_score": 32
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "a0ca44f9-36da-4d86-bce3-0e92752bf0d3",
+        "client_id": "1005",
+        "transaction_date": "2023-03-16T01:34:00.491704",
+        "transaction_amount": 339.21,
+        "transaction_details": "Electronics",
+        "transacted_to": "727286-17-4684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 25,
+        "transaction_location": {
+            "latitude": "3.146128",
+            "longitude": "101.627837"
+        },
+        "fraud_score": 2
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "33e5b6ca-b70d-4ac7-a675-1fbf30c9d404",
+        "client_id": "1003",
+        "transaction_date": "2022-08-05T01:34:00.491712",
+        "transaction_amount": 758.35,
+        "transaction_details": "Books",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 22,
+        "transaction_location": {
+            "latitude": "3.058253",
+            "longitude": "101.688628"
+        },
+        "fraud_score": 0
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "f1d5a944-b692-44c1-ae89-fba97ad3a52e",
+        "client_id": "1005",
+        "transaction_date": "2022-07-25T01:34:00.491720",
+        "transaction_amount": 504.43,
+        "transaction_details": "Books",
+        "transacted_to": "782906-94-7684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 94,
+        "transaction_location": {
+            "latitude": "3.050966",
+            "longitude": "101.617054"
+        },
+        "fraud_score": 20
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "e26af935-2f54-4ad3-abac-7ae83fe68f2a",
+        "client_id": "1005",
+        "transaction_date": "2022-08-30T01:34:00.491731",
+        "transaction_amount": 473.2,
+        "transaction_details": "KFC",
+        "transacted_to": "900923-03-8902",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 67,
+        "transaction_location": {
+            "latitude": "3.087629",
+            "longitude": "101.620804"
+        },
+        "fraud_score": 0
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "10e13e61-2d4b-46c1-afb1-ac942cf985b5",
+        "client_id": "1004",
+        "transaction_date": "2023-04-26T01:34:00.491740",
+        "transaction_amount": 79.21,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 99,
+        "transaction_location": {
+            "latitude": "3.103076",
+            "longitude": "101.719182"
+        },
+        "fraud_score": 42
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "89d50a2f-76d2-463b-9de4-fa6ecab60df6",
+        "client_id": "1001",
+        "transaction_date": "2022-07-30T01:34:00.491748",
+        "transaction_amount": 831.87,
+        "transaction_details": "Books",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 69,
+        "transaction_location": {
+            "latitude": "3.039456",
+            "longitude": "101.707091"
+        },
+        "fraud_score": 18
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "bed8e3bb-72bf-492c-bb3e-da5a9212b548",
+        "client_id": "1003",
+        "transaction_date": "2022-10-03T01:34:00.491758",
+        "transaction_amount": 590.17,
+        "transaction_details": "KFC",
+        "transacted_to": "900923-03-8902",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 53,
+        "transaction_location": {
+            "latitude": "3.129181",
+            "longitude": "101.689257"
+        },
+        "fraud_score": 29
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "3ded5590-f602-4c90-97ad-c10b5f7a5514",
+        "client_id": "1005",
+        "transaction_date": "2022-07-08T01:34:00.491765",
+        "transaction_amount": 410.46,
+        "transaction_details": "Electronics",
+        "transacted_to": "950721-09-5865",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 72,
+        "transaction_location": {
+            "latitude": "3.162932",
+            "longitude": "101.681344"
+        },
+        "fraud_score": 1
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "62c590fe-1842-4e60-b2a0-9108158b1125",
+        "client_id": "1001",
+        "transaction_date": "2022-11-07T01:34:00.491773",
+        "transaction_amount": 924.3,
+        "transaction_details": "Books",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 78,
+        "transaction_location": {
+            "latitude": "3.121584",
+            "longitude": "101.600191"
+        },
+        "fraud_score": 45
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "7e43341a-44aa-4dcd-ace9-ec02d1b94c68",
+        "client_id": "1005",
+        "transaction_date": "2023-03-28T01:34:00.491781",
+        "transaction_amount": 57.4,
+        "transaction_details": "Books",
+        "transacted_to": "703778-40-2363",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 48,
+        "transaction_location": {
+            "latitude": "3.184817",
+            "longitude": "101.737630"
+        },
+        "fraud_score": 11
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "a4ace60a-e23d-45ed-9569-6138ab095fd0",
+        "client_id": "1004",
+        "transaction_date": "2022-09-02T01:34:00.491789",
+        "transaction_amount": 749.81,
+        "transaction_details": "Books",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 100,
+        "transaction_location": {
+            "latitude": "3.131368",
+            "longitude": "101.656933"
+        },
+        "fraud_score": 36
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "bca93115-91e2-49b8-9387-adea199d78b3",
+        "client_id": "1004",
+        "transaction_date": "2023-03-27T01:34:00.491797",
+        "transaction_amount": 413.95,
+        "transaction_details": "Electronics",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 72,
+        "transaction_location": {
+            "latitude": "3.174282",
+            "longitude": "101.716083"
+        },
+        "fraud_score": 19
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "b84de96d-7f12-43f7-a5ed-86129179a676",
+        "client_id": "1003",
+        "transaction_date": "2022-09-16T01:34:00.491805",
+        "transaction_amount": 478.79,
+        "transaction_details": "Electronics",
+        "transacted_to": "954358-31-7524",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 28,
+        "transaction_location": {
+            "latitude": "3.110563",
+            "longitude": "101.710796"
+        },
+        "fraud_score": 21
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "fc1bf309-e68f-4623-812c-8e7a58fe7409",
+        "client_id": "1001",
+        "transaction_date": "2022-07-20T01:34:00.491813",
+        "transaction_amount": 727.0,
+        "transaction_details": "Electronics",
+        "transacted_to": "920927-09-4678",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 68,
+        "transaction_location": {
+            "latitude": "3.170904",
+            "longitude": "101.669891"
+        },
+        "fraud_score": 29
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "d10ca90e-03d2-4950-a4a6-09c60722fe6d",
+        "client_id": "1001",
+        "transaction_date": "2022-07-02T01:34:00.491821",
+        "transaction_amount": 585.29,
+        "transaction_details": "Books",
+        "transacted_to": "632013-23-1945",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 44,
+        "transaction_location": {
+            "latitude": "3.179413",
+            "longitude": "101.680949"
+        },
+        "fraud_score": 15
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "7e940a75-7a09-494e-8366-728529c8ed5d",
+        "client_id": "1005",
+        "transaction_date": "2022-06-07T01:34:00.491829",
+        "transaction_amount": 855.52,
+        "transaction_details": "Books",
+        "transacted_to": "116580-79-3375",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 48,
+        "transaction_location": {
+            "latitude": "3.178495",
+            "longitude": "101.620479"
+        },
+        "fraud_score": 3
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "662288d9-775a-478e-9a53-caa35f5526fa",
+        "client_id": "1002",
+        "transaction_date": "2023-05-17T01:34:00.491837",
+        "transaction_amount": 240.88,
+        "transaction_details": "Books",
+        "transacted_to": "527389-68-2473",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 82,
+        "transaction_location": {
+            "latitude": "3.097046",
+            "longitude": "101.600469"
+        },
+        "fraud_score": 17
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "bde94133-7420-436a-bd9e-1b9d0d2fb06a",
+        "client_id": "1003",
+        "transaction_date": "2022-08-09T01:34:00.491845",
+        "transaction_amount": 942.34,
+        "transaction_details": "Books",
+        "transacted_to": "268455-14-3513",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 43,
+        "transaction_location": {
+            "latitude": "3.091743",
+            "longitude": "101.641657"
+        },
+        "fraud_score": 49
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "7210b4de-33c7-49e6-af32-274d33ee67c6",
+        "client_id": "1003",
+        "transaction_date": "2022-07-09T01:34:00.491853",
+        "transaction_amount": 989.24,
+        "transaction_details": "Electronics",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": true,
+        "anomaly_type": "Unusually high",
+        "user_score": 44,
+        "transaction_location": {
+            "latitude": "3.178993",
+            "longitude": "101.647569"
+        },
+        "fraud_score": 78
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "a63a7aa9-81f4-4f38-b6e7-692a0f194ff1",
+        "client_id": "1001",
+        "transaction_date": "2022-11-23T01:34:00.491861",
+        "transaction_amount": 617.6,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "950721-09-5865",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 61,
+        "transaction_location": {
+            "latitude": "3.035157",
+            "longitude": "101.590741"
+        },
+        "fraud_score": 35
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "ba2110d4-8926-4229-8670-17720e68cc37",
+        "client_id": "1001",
+        "transaction_date": "2023-02-24T01:34:00.491869",
+        "transaction_amount": 917.39,
+        "transaction_details": "Clothing",
+        "transacted_to": "950721-09-5865",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 41,
+        "transaction_location": {
+            "latitude": "3.073902",
+            "longitude": "101.663522"
+        },
+        "fraud_score": 35
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "6e908fbb-ecce-4eb3-a247-a69ac34e1d60",
+        "client_id": "1001",
+        "transaction_date": "2023-03-17T01:34:00.491877",
+        "transaction_amount": 559.74,
+        "transaction_details": "Clothing",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 41,
+        "transaction_location": {
+            "latitude": "3.212664",
+            "longitude": "101.640667"
+        },
+        "fraud_score": 26
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "28193f87-4754-44c0-b310-7456da314af7",
+        "client_id": "1005",
+        "transaction_date": "2023-04-05T01:34:00.491885",
+        "transaction_amount": 396.44,
+        "transaction_details": "Electronics",
+        "transacted_to": "117162-33-2931",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 72,
+        "transaction_location": {
+            "latitude": "3.147790",
+            "longitude": "101.604019"
+        },
+        "fraud_score": 48
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "e7e6d1ab-303b-439c-807a-ab2db6fe3684",
+        "client_id": "1005",
+        "transaction_date": "2022-07-10T01:34:00.491893",
+        "transaction_amount": 558.45,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "763898-59-8104",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 81,
+        "transaction_location": {
+            "latitude": "3.147021",
+            "longitude": "101.597055"
+        },
+        "fraud_score": 0
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "34e1bf17-0dc9-472c-a127-bf096713bbad",
+        "client_id": "1003",
+        "transaction_date": "2023-01-16T01:34:00.491901",
+        "transaction_amount": 908.25,
+        "transaction_details": "Books",
+        "transacted_to": "944453-98-8883",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 15,
+        "transaction_location": {
+            "latitude": "3.162192",
+            "longitude": "101.592189"
+        },
+        "fraud_score": 95
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "477bba4b-d648-4d57-9839-baa36d640de7",
+        "client_id": "1001",
+        "transaction_date": "2022-12-05T01:34:00.491909",
+        "transaction_amount": 507.87,
+        "transaction_details": "Electronics",
+        "transacted_to": "763898-59-8104",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 47,
+        "transaction_location": {
+            "latitude": "3.222397",
+            "longitude": "101.687754"
+        },
+        "fraud_score": 46
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "271198f2-bd1a-4f9f-a731-bd93fb05e23f",
+        "client_id": "1002",
+        "transaction_date": "2022-06-20T01:34:00.491917",
+        "transaction_amount": 326.18,
+        "transaction_details": "Books",
+        "transacted_to": "778038-18-9402",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 32,
+        "transaction_location": {
+            "latitude": "3.171344",
+            "longitude": "101.645797"
+        },
+        "fraud_score": 19
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "b5a9d7b8-3d51-4029-89e0-d4fa128815d0",
+        "client_id": "1005",
+        "transaction_date": "2022-09-09T01:34:00.491925",
+        "transaction_amount": 58.75,
+        "transaction_details": "Books",
+        "transacted_to": "143158-58-5041",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 73,
+        "transaction_location": {
+            "latitude": "3.035584",
+            "longitude": "101.738393"
+        },
+        "fraud_score": 23
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "5ba9cf06-a6b2-4d8b-8a5f-9446ce992549",
+        "client_id": "1005",
+        "transaction_date": "2022-09-26T01:34:00.491933",
+        "transaction_amount": 889.14,
+        "transaction_details": "Clothing",
+        "transacted_to": "970417-07-3958",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 94,
+        "transaction_location": {
+            "latitude": "3.209352",
+            "longitude": "101.735280"
+        },
+        "fraud_score": 28
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "625f3168-e0be-4ecf-8823-24aa090bf169",
+        "client_id": "1001",
+        "transaction_date": "2023-02-06T01:34:00.491941",
+        "transaction_amount": 739.1,
+        "transaction_details": "Clothing",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 94,
+        "transaction_location": {
+            "latitude": "3.054828",
+            "longitude": "101.600106"
+        },
+        "fraud_score": 14
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "30edf790-4832-4f29-bb90-436fc854a4e9",
+        "client_id": "1002",
+        "transaction_date": "2022-07-19T01:34:00.491949",
+        "transaction_amount": 139.71,
+        "transaction_details": "Electronics",
+        "transacted_to": "527389-68-2473",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 100,
+        "transaction_location": {
+            "latitude": "3.056572",
+            "longitude": "101.685003"
+        },
+        "fraud_score": 42
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "3ba44556-c780-4ca0-accd-2031e031d4ea",
+        "client_id": "1003",
+        "transaction_date": "2023-03-01T01:34:00.491957",
+        "transaction_amount": 860.68,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "432265-64-6184",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 91,
+        "transaction_location": {
+            "latitude": "3.072046",
+            "longitude": "101.685931"
+        },
+        "fraud_score": 92
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "20a418f5-ffe5-4644-a859-84cd7cda46dd",
+        "client_id": "1005",
+        "transaction_date": "2022-06-06T01:34:00.491965",
+        "transaction_amount": 309.17,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 68,
+        "transaction_location": {
+            "latitude": "3.097094",
+            "longitude": "101.589023"
+        },
+        "fraud_score": 27
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "ace7ead1-e3c2-4249-b86b-4e3ec63da03a",
+        "client_id": "1004",
+        "transaction_date": "2022-11-29T01:34:00.491973",
+        "transaction_amount": 654.33,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "727286-17-4684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 50,
+        "transaction_location": {
+            "latitude": "3.175198",
+            "longitude": "101.633223"
+        },
+        "fraud_score": 11
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "c726973b-b32f-40a4-a362-3a7d08895d56",
+        "client_id": "1002",
+        "transaction_date": "2022-09-06T01:34:00.491982",
+        "transaction_amount": 335.43,
+        "transaction_details": "Clothing",
+        "transacted_to": "474210-77-2265",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 16,
+        "transaction_location": {
+            "latitude": "3.208829",
+            "longitude": "101.617309"
+        },
+        "fraud_score": 28
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "344217ac-4818-4cb3-b463-d77eb93fd425",
+        "client_id": "1003",
+        "transaction_date": "2022-08-30T01:34:00.491990",
+        "transaction_amount": 507.92,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "720622-04-6859",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 73,
+        "transaction_location": {
+            "latitude": "3.055474",
+            "longitude": "101.706870"
+        },
+        "fraud_score": 87
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "c9003da8-0ae4-4c0b-be1f-117a80e95b1e",
+        "client_id": "1002",
+        "transaction_date": "2022-11-23T01:34:00.491998",
+        "transaction_amount": 91.27,
+        "transaction_details": "Books",
+        "transacted_to": "727201-85-4225",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 26,
+        "transaction_location": {
+            "latitude": "3.223386",
+            "longitude": "101.628990"
+        },
+        "fraud_score": 47
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "fb009f40-72df-459d-a1c7-ce965aa7656b",
+        "client_id": "1002",
+        "transaction_date": "2022-11-11T01:34:00.492006",
+        "transaction_amount": 383.72,
+        "transaction_details": "Books",
+        "transacted_to": "865887-57-8251",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 64,
+        "transaction_location": {
+            "latitude": "3.163975",
+            "longitude": "101.625034"
+        },
+        "fraud_score": 46
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "deea2862-fc04-411e-b83d-d8edf8fcaba3",
+        "client_id": "1001",
+        "transaction_date": "2022-12-16T01:34:00.492014",
+        "transaction_amount": 672.09,
+        "transaction_details": "Clothing",
+        "transacted_to": "811104-11-9852",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 92,
+        "transaction_location": {
+            "latitude": "3.140257",
+            "longitude": "101.713644"
+        },
+        "fraud_score": 25
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "ef128181-df46-4c0b-b36a-1386d6d6c30f",
+        "client_id": "1002",
+        "transaction_date": "2023-05-18T01:34:00.492022",
+        "transaction_amount": 650.74,
+        "transaction_details": "Clothing",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 70,
+        "transaction_location": {
+            "latitude": "3.145638",
+            "longitude": "101.726165"
+        },
+        "fraud_score": 37
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "6c4247c2-44b8-4d7e-a56a-a2d671c5a50e",
+        "client_id": "1004",
+        "transaction_date": "2022-08-22T01:34:00.492030",
+        "transaction_amount": 517.32,
+        "transaction_details": "Electronics",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 22,
+        "transaction_location": {
+            "latitude": "3.209287",
+            "longitude": "101.694853"
+        },
+        "fraud_score": 34
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "dc668875-37e3-4561-811b-e5ec643a399e",
+        "client_id": "1004",
+        "transaction_date": "2023-01-24T01:34:00.492038",
+        "transaction_amount": 909.61,
+        "transaction_details": "Electronics",
+        "transacted_to": "469148-42-4218",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 5,
+        "transaction_location": {
+            "latitude": "3.102844",
+            "longitude": "101.645646"
+        },
+        "fraud_score": 4
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "e2941b2a-8a0f-4253-863b-75c02f261098",
+        "client_id": "1004",
+        "transaction_date": "2023-01-10T01:34:00.492046",
+        "transaction_amount": 735.11,
+        "transaction_details": "Books",
+        "transacted_to": "954358-31-7524",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 71,
+        "transaction_location": {
+            "latitude": "3.075769",
+            "longitude": "101.702468"
+        },
+        "fraud_score": 20
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "9aaba225-83d5-4902-adcc-375a667ad23b",
+        "client_id": "1002",
+        "transaction_date": "2023-05-20T01:34:00.492054",
+        "transaction_amount": 269.61,
+        "transaction_details": "Clothing",
+        "transacted_to": "727286-17-4684",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 69,
+        "transaction_location": {
+            "latitude": "3.137242",
+            "longitude": "101.735830"
+        },
+        "fraud_score": 29
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "4ba6d90b-de29-45a8-94ed-b788496c4772",
+        "client_id": "1001",
+        "transaction_date": "2022-08-30T01:34:00.492062",
+        "transaction_amount": 266.97,
+        "transaction_details": "Home Appliances",
+        "transacted_to": "232591-45-8097",
+        "is_anomaly": true,
+        "anomaly_type": "Anomaly",
+        "user_score": 32,
+        "transaction_location": {
+            "latitude": "3.116677",
+            "longitude": "101.685104"
+        },
+        "fraud_score": 86
+    },
+    {
+        "user_id": "891006-10-1234",
+        "transaction_id": "47297fc1-b0f0-4c75-a84c-38d98dc93b13",
+        "client_id": "1004",
+        "transaction_date": "2022-06-23T01:34:00.492070",
+        "transaction_amount": 55.1,
+        "transaction_details": "Books",
+        "transacted_to": "720979-73-2085",
+        "is_anomaly": false,
+        "anomaly_type": "",
+        "user_score": 35,
+        "transaction_location": {
+            "latitude": "3.191894",
+            "longitude": "101.649881"
+        },
+        "fraud_score": 12
     }
 ]
