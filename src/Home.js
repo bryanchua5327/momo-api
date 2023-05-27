@@ -10,11 +10,19 @@ import { fetchUserTransactions } from "./utils/api";
 export default function Home() {
   const [searchValue, setSearchValue] = useState("");
   const [userTxns, setUserTxns] = useState([]);
+  const [aggregateResults, setAggregateResults] = useState({
+    average: 0,
+    max: 0,
+    sum: 0,
+    count: 0,
+    totalAnomalies: 0,
+  });
 
   const handleSearch = (searchValue) => {
     setSearchValue(searchValue);
   };
 
+  // Fetch user transactions when search bar is triggered
   useEffect(() => {
     const fetchData = async () => {
       if (!searchValue) return;
@@ -28,6 +36,33 @@ export default function Home() {
 
     fetchData();
   }, [searchValue]);
+
+  // Upon receiving user transactions, calculate aggregateResults
+  useEffect(() => {
+    if (Object.keys(userTxns).length === 0) return;
+
+    const aggregateResults = userTxns.reduce(
+      (acc, obj) => {
+        const { transaction_amount, is_anomaly } = obj;
+        // Calculate sum
+        acc.sum += transaction_amount;
+        // Calculate maximum value
+        acc.max = Math.max(acc.max, transaction_amount);
+        // Calculate count
+        acc.count++;
+
+        if (is_anomaly) {
+          acc.totalAnomalies++;
+        }
+        return acc;
+      },
+      { sum: 0, max: -Infinity, count: 0, totalAnomalies: 0 }
+    );
+
+    // Calculate average
+    aggregateResults.average = aggregateResults.sum / aggregateResults.count;
+    setAggregateResults(aggregateResults);
+  }, [userTxns]);
 
   const allTxnsColumns = [
     {
@@ -80,16 +115,28 @@ export default function Home() {
       <AppBar onSearch={handleSearch} />
       <Row gutter={16}>
         <Col span={6}>
-          <CardScore metric="Average Transaction Amount" value="100" />
+          <CardScore
+            metric="Average Transaction Amount"
+            value={`RM ${aggregateResults.average.toFixed(2)}`}
+          />
         </Col>
         <Col span={6}>
-          <CardScore metric="Max Transaction Amount" value="100" />
+          <CardScore
+            metric="Max Transaction Amount"
+            value={`RM ${aggregateResults.max}`}
+          />
         </Col>
         <Col span={6}>
-          <CardScore metric="Anomalies Detected" value="100" />
+          <CardScore
+            metric="Anomalies Detected"
+            value={aggregateResults.totalAnomalies}
+          />
         </Col>
         <Col span={6}>
-          <CardScore metric="Total Outflow" value="100" />
+          <CardScore
+            metric="Total Outflow"
+            value={`RM ${aggregateResults.sum.toFixed(2)}`}
+          />
         </Col>
       </Row>
 
