@@ -29,7 +29,7 @@ export const fetchTransactionsGraph = async () => {
     const jsonData = await new Promise((resolve) => {
       setTimeout(async () => {
         const { default: data } = await import(`../data/sampleTree.json`);
-        const processNode = ({ child, transaction_id, transacted_to, transaction_amount }) => {
+        const processNode = ({ child, fraud_score, transaction_id, transacted_to, transaction_amount }) => {
           if (child == null || child.length == 0) {
             return {
               id: transaction_id,
@@ -39,9 +39,13 @@ export const fetchTransactionsGraph = async () => {
                   {
                     text: "Amount",
                     value: transaction_amount
+                  },
+                  {
+                    text: "Fraud risk",
+                    value: (fraud_score / 100).toFixed(2)
                   }
                 ],
-                percent: 0.1
+                percent: fraud_score / 100
               },
             }
           } else {
@@ -53,9 +57,13 @@ export const fetchTransactionsGraph = async () => {
                   {
                     text: "Amount",
                     value: transaction_amount
+                  },
+                  {
+                    text: "Fraud risk",
+                    value: (fraud_score / 100).toFixed(2)
                   }
                 ],
-                percent: 0.1
+                percent: fraud_score / 100
               },
               children: child.map(processNode)
             }
@@ -66,7 +74,7 @@ export const fetchTransactionsGraph = async () => {
         const res = data.map(processNode)
 
         resolve(res);
-      }, 1000); // Delay
+      }, 3000); // Delay
     });
 
     return jsonData;

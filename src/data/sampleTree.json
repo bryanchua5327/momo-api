@@ -1,6 +1,6 @@
 [
   {
-    "id":"284b846f-6ff0-403a-a7e4-aa3e8c206a1d",
+    "id": "284b846f-6ff0-403a-a7e4-aa3e8c206a1d",
     "user_id": "970417-07-3958",
     "transaction_id": "284b846f-6ff0-403a-a7e4-aa3e8c206a1d",
     "client_id": 4171,
@@ -11,6 +11,7 @@
     "is_anomaly": "Yes",
     "anomaly_type": "Fraud",
     "user_score": 42,
+    "fraud_score": 70,
     "child": [
       {
         "user_id": "835428-27-9159",
@@ -23,6 +24,7 @@
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
         "user_score": 35,
+        "fraud_score": 80,
         "child": [
           {
             "user_id": "811104-11-9852",
@@ -35,6 +37,7 @@
             "is_anomaly": "Yes",
             "anomaly_type": "Fraud",
             "user_score": 42,
+            "fraud_score": 69,
             "child": [
               {
                 "user_id": "640921-27-1234",
@@ -47,6 +50,7 @@
                 "is_anomaly": "Yes",
                 "anomaly_type": "Fraud",
                 "user_score": 42,
+                "fraud_score": 100,
                 "child": []
               }
             ]
@@ -62,6 +66,7 @@
             "is_anomaly": "Yes",
             "anomaly_type": "Fraud",
             "user_score": 42,
+            "fraud_score": 70,
             "child": [
               {
                 "user_id": "810321-11-0674",
@@ -74,6 +79,7 @@
                 "is_anomaly": "Yes",
                 "anomaly_type": "Fraud",
                 "user_score": 42,
+                "fraud_score": 85,
                 "child": [
                   {
                     "user_id": "990211-08-3758",
@@ -86,6 +92,7 @@
                     "is_anomaly": "Yes",
                     "anomaly_type": "Fraud",
                     "user_score": 42,
+                    "fraud_score": 90,
                     "child": []
                   }
                 ]
@@ -101,6 +108,7 @@
                 "is_anomaly": "Yes",
                 "anomaly_type": "Fraud",
                 "user_score": 42,
+                "fraud_score": 78,
                 "child": [
                   {
                     "user_id": "920607-02-5689",
@@ -113,6 +121,7 @@
                     "is_anomaly": "Yes",
                     "anomaly_type": "Fraud",
                     "user_score": 42,
+                    "fraud_score": 60,
                     "child": []
                   },
                   {
@@ -126,6 +135,7 @@
                     "is_anomaly": "Yes",
                     "anomaly_type": "Fraud",
                     "user_score": 42,
+                    "fraud_score": 50,
                     "child": []
                   }
                 ]
@@ -143,6 +153,7 @@
             "is_anomaly": "Yes",
             "anomaly_type": "Fraud",
             "user_score": 42,
+            "fraud_score": 70,
             "child": [
               {
                 "user_id": "898104-05-8852",
@@ -155,6 +166,7 @@
                 "is_anomaly": "Yes",
                 "anomaly_type": "Fraud",
                 "user_score": 42,
+                "fraud_score": 97,
                 "child": [
                   {
                     "user_id": "465748-09-3144",
@@ -167,6 +179,7 @@
                     "is_anomaly": "Yes",
                     "anomaly_type": "Fraud",
                     "user_score": 42,
+                    "fraud_score": 60,
                     "child": []
                   }
                 ]
@@ -182,6 +195,7 @@
                 "is_anomaly": "Yes",
                 "anomaly_type": "Fraud",
                 "user_score": 42,
+                "fraud_score": 90,
                 "child": []
               }
             ]

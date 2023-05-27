@@ -5,12 +5,12 @@ import {
     useParams
 } from "react-router-dom";
 import { fetchTransactionsGraph } from "./utils/api";
-import { isEmpty, stubFalse } from "lodash";
+import { isEmpty } from "lodash";
 
 
 export default function Graph() {
     const [trxnData, setTrxnData] = useState({})
-    const [loading, setLoading] = useState(false)
+    const [loading, setLoading] = useState(true)
 
     useEffect(() => {
         const fetchData = async () => {
@@ -32,7 +32,15 @@ export default function Graph() {
     const { id } = useParams();
 
     if (loading) {
-        return <Spin></Spin>
+        return <div style={{
+            height: "100vh", display: "grid", placeItems: "center"
+        }}>
+            <div>
+                <Spin>
+                </Spin>
+                <div>Please wait while we prepare reports for {id}</div>
+            </div>
+        </ div>
     }
     return (
         <Card className="tw-m-4">
