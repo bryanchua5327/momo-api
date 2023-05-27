@@ -9,7 +9,11 @@
         "transacted_to": "241580-26-3585",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 4
+        "user_score": 4,
+        "coors": {
+            "latitude": "3.235256",
+            "longitude": "101.668825"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -21,7 +25,11 @@
         "transacted_to": "395233-85-9112",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 51
+        "user_score": 51,
+        "coors": {
+            "latitude": "3.049131",
+            "longitude": "101.697701"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -33,7 +41,11 @@
         "transacted_to": "669259-74-7014",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 30
+        "user_score": 30,
+        "coors": {
+            "latitude": "3.227190",
+            "longitude": "101.665489"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -45,7 +57,11 @@
         "transacted_to": "115342-46-4087",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 7
+        "user_score": 7,
+        "coors": {
+            "latitude": "3.104543",
+            "longitude": "101.606492"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -57,7 +73,11 @@
         "transacted_to": "648441-31-4687",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 44
+        "user_score": 44,
+        "coors": {
+            "latitude": "3.199996",
+            "longitude": "101.738041"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -69,7 +89,11 @@
         "transacted_to": "845254-57-7207",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 90
+        "user_score": 90,
+        "coors": {
+            "latitude": "3.191895",
+            "longitude": "101.637504"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -81,7 +105,11 @@
         "transacted_to": "372901-59-2530",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 14
+        "user_score": 14,
+        "coors": {
+            "latitude": "3.090197",
+            "longitude": "101.674479"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -93,7 +121,11 @@
         "transacted_to": "552009-12-9311",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 26
+        "user_score": 26,
+        "coors": {
+            "latitude": "3.227427",
+            "longitude": "101.595165"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -105,7 +137,11 @@
         "transacted_to": "818961-16-2769",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 18
+        "user_score": 18,
+        "coors": {
+            "latitude": "3.191128",
+            "longitude": "101.610862"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -117,7 +153,11 @@
         "transacted_to": "726622-51-4622",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 62
+        "user_score": 62,
+        "coors": {
+            "latitude": "3.093905",
+            "longitude": "101.589565"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -129,7 +169,11 @@
         "transacted_to": "929620-67-1304",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 70
+        "user_score": 70,
+        "coors": {
+            "latitude": "3.088473",
+            "longitude": "101.687698"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -141,7 +185,11 @@
         "transacted_to": "977507-29-7243",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 55
+        "user_score": 55,
+        "coors": {
+            "latitude": "3.223505",
+            "longitude": "101.596135"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -153,7 +201,11 @@
         "transacted_to": "841769-24-5625",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 65
+        "user_score": 65,
+        "coors": {
+            "latitude": "3.136077",
+            "longitude": "101.596481"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -165,7 +217,11 @@
         "transacted_to": "815423-71-6932",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 52
+        "user_score": 52,
+        "coors": {
+            "latitude": "3.225803",
+            "longitude": "101.589832"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -177,7 +233,11 @@
         "transacted_to": "451127-82-4029",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 62
+        "user_score": 62,
+        "coors": {
+            "latitude": "3.037040",
+            "longitude": "101.615372"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -189,7 +249,11 @@
         "transacted_to": "686594-71-3898",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 41
+        "user_score": 41,
+        "coors": {
+            "latitude": "3.123622",
+            "longitude": "101.692180"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -201,7 +265,11 @@
         "transacted_to": "446697-31-8049",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 2
+        "user_score": 2,
+        "coors": {
+            "latitude": "3.035190",
+            "longitude": "101.696361"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -213,7 +281,11 @@
         "transacted_to": "569065-21-6718",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 5
+        "user_score": 5,
+        "coors": {
+            "latitude": "3.166543",
+            "longitude": "101.668678"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -225,7 +297,11 @@
         "transacted_to": "578885-68-4221",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 89
+        "user_score": 89,
+        "coors": {
+            "latitude": "3.184106",
+            "longitude": "101.688045"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -237,7 +313,11 @@
         "transacted_to": "912536-99-9968",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 34
+        "user_score": 34,
+        "coors": {
+            "latitude": "3.076038",
+            "longitude": "101.612278"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -249,7 +329,11 @@
         "transacted_to": "817922-94-5431",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 95
+        "user_score": 95,
+        "coors": {
+            "latitude": "3.183273",
+            "longitude": "101.646227"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -261,7 +345,11 @@
         "transacted_to": "576949-36-6660",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 94
+        "user_score": 94,
+        "coors": {
+            "latitude": "3.036133",
+            "longitude": "101.656932"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -273,7 +361,11 @@
         "transacted_to": "573828-42-9170",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 83
+        "user_score": 83,
+        "coors": {
+            "latitude": "3.158382",
+            "longitude": "101.725359"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -285,7 +377,11 @@
         "transacted_to": "907381-79-6088",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 3
+        "user_score": 3,
+        "coors": {
+            "latitude": "3.052176",
+            "longitude": "101.715526"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -297,7 +393,11 @@
         "transacted_to": "563399-62-6222",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 24
+        "user_score": 24,
+        "coors": {
+            "latitude": "3.088107",
+            "longitude": "101.669361"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -309,7 +409,11 @@
         "transacted_to": "994549-10-3280",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 59
+        "user_score": 59,
+        "coors": {
+            "latitude": "3.138848",
+            "longitude": "101.620183"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -321,7 +425,11 @@
         "transacted_to": "958300-51-7181",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 86
+        "user_score": 86,
+        "coors": {
+            "latitude": "3.155661",
+            "longitude": "101.717978"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -333,7 +441,11 @@
         "transacted_to": "509311-85-4218",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 77
+        "user_score": 77,
+        "coors": {
+            "latitude": "3.044498",
+            "longitude": "101.667736"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -345,7 +457,11 @@
         "transacted_to": "427570-18-6500",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 53
+        "user_score": 53,
+        "coors": {
+            "latitude": "3.182215",
+            "longitude": "101.677107"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -357,7 +473,11 @@
         "transacted_to": "296289-18-1607",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 28
+        "user_score": 28,
+        "coors": {
+            "latitude": "3.236438",
+            "longitude": "101.611792"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -369,7 +489,11 @@
         "transacted_to": "873955-81-2508",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 68
+        "user_score": 68,
+        "coors": {
+            "latitude": "3.226036",
+            "longitude": "101.627123"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -381,7 +505,11 @@
         "transacted_to": "796124-95-4203",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 14
+        "user_score": 14,
+        "coors": {
+            "latitude": "3.169350",
+            "longitude": "101.597581"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -393,7 +521,11 @@
         "transacted_to": "311792-60-5637",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 59
+        "user_score": 59,
+        "coors": {
+            "latitude": "3.138703",
+            "longitude": "101.589853"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -405,7 +537,11 @@
         "transacted_to": "910227-40-1019",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 13
+        "user_score": 13,
+        "coors": {
+            "latitude": "3.154153",
+            "longitude": "101.631931"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -417,7 +553,11 @@
         "transacted_to": "622147-87-4977",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 60
+        "user_score": 60,
+        "coors": {
+            "latitude": "3.077931",
+            "longitude": "101.722780"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -429,7 +569,11 @@
         "transacted_to": "478688-42-5776",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 78
+        "user_score": 78,
+        "coors": {
+            "latitude": "3.140764",
+            "longitude": "101.601671"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -441,7 +585,11 @@
         "transacted_to": "384644-51-1944",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 93
+        "user_score": 93,
+        "coors": {
+            "latitude": "3.034495",
+            "longitude": "101.615072"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -453,7 +601,11 @@
         "transacted_to": "886276-19-2318",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 92
+        "user_score": 92,
+        "coors": {
+            "latitude": "3.228872",
+            "longitude": "101.589396"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -465,7 +617,11 @@
         "transacted_to": "249721-75-7255",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 94
+        "user_score": 94,
+        "coors": {
+            "latitude": "3.125628",
+            "longitude": "101.629751"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -477,7 +633,11 @@
         "transacted_to": "341985-86-4755",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 24
+        "user_score": 24,
+        "coors": {
+            "latitude": "3.075521",
+            "longitude": "101.620282"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -489,7 +649,11 @@
         "transacted_to": "414083-97-5457",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 2
+        "user_score": 2,
+        "coors": {
+            "latitude": "3.086471",
+            "longitude": "101.614507"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -501,7 +665,11 @@
         "transacted_to": "442514-65-1709",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 52
+        "user_score": 52,
+        "coors": {
+            "latitude": "3.088319",
+            "longitude": "101.598469"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -513,7 +681,11 @@
         "transacted_to": "448459-32-2332",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 72
+        "user_score": 72,
+        "coors": {
+            "latitude": "3.209028",
+            "longitude": "101.624311"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -525,7 +697,11 @@
         "transacted_to": "797001-51-7090",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 3
+        "user_score": 3,
+        "coors": {
+            "latitude": "3.041244",
+            "longitude": "101.739022"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -537,7 +713,11 @@
         "transacted_to": "110002-40-6988",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 24
+        "user_score": 24,
+        "coors": {
+            "latitude": "3.214281",
+            "longitude": "101.598457"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -549,7 +729,11 @@
         "transacted_to": "887402-19-4919",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 47
+        "user_score": 47,
+        "coors": {
+            "latitude": "3.218950",
+            "longitude": "101.671510"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -561,7 +745,11 @@
         "transacted_to": "129908-71-5677",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 19
+        "user_score": 19,
+        "coors": {
+            "latitude": "3.180018",
+            "longitude": "101.621915"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -573,7 +761,11 @@
         "transacted_to": "345701-30-2847",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 29
+        "user_score": 29,
+        "coors": {
+            "latitude": "3.163039",
+            "longitude": "101.693380"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -585,7 +777,11 @@
         "transacted_to": "806127-73-4194",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 10
+        "user_score": 10,
+        "coors": {
+            "latitude": "3.055068",
+            "longitude": "101.695231"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -597,7 +793,11 @@
         "transacted_to": "946314-49-3776",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 93
+        "user_score": 93,
+        "coors": {
+            "latitude": "3.221750",
+            "longitude": "101.739728"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -609,7 +809,11 @@
         "transacted_to": "772762-50-9199",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 30
+        "user_score": 30,
+        "coors": {
+            "latitude": "3.083994",
+            "longitude": "101.666820"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -621,7 +825,11 @@
         "transacted_to": "438794-47-4874",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 47
+        "user_score": 47,
+        "coors": {
+            "latitude": "3.162790",
+            "longitude": "101.683265"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -633,7 +841,11 @@
         "transacted_to": "183256-81-1103",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 78
+        "user_score": 78,
+        "coors": {
+            "latitude": "3.076234",
+            "longitude": "101.687669"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -645,7 +857,11 @@
         "transacted_to": "435283-36-6630",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 27
+        "user_score": 27,
+        "coors": {
+            "latitude": "3.078294",
+            "longitude": "101.638272"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -657,7 +873,11 @@
         "transacted_to": "844989-72-2734",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 33
+        "user_score": 33,
+        "coors": {
+            "latitude": "3.136744",
+            "longitude": "101.680019"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -669,7 +889,11 @@
         "transacted_to": "767933-57-3173",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 25
+        "user_score": 25,
+        "coors": {
+            "latitude": "3.231619",
+            "longitude": "101.637189"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -681,7 +905,11 @@
         "transacted_to": "553204-55-2038",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 77
+        "user_score": 77,
+        "coors": {
+            "latitude": "3.106791",
+            "longitude": "101.724954"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -693,7 +921,11 @@
         "transacted_to": "928715-80-6612",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 69
+        "user_score": 69,
+        "coors": {
+            "latitude": "3.076078",
+            "longitude": "101.617228"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -705,7 +937,11 @@
         "transacted_to": "856762-43-8120",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 55
+        "user_score": 55,
+        "coors": {
+            "latitude": "3.165015",
+            "longitude": "101.690018"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -717,7 +953,11 @@
         "transacted_to": "564202-62-2971",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 74
+        "user_score": 74,
+        "coors": {
+            "latitude": "3.056137",
+            "longitude": "101.594673"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -729,7 +969,11 @@
         "transacted_to": "420036-46-5103",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 81
+        "user_score": 81,
+        "coors": {
+            "latitude": "3.140921",
+            "longitude": "101.722242"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -741,7 +985,11 @@
         "transacted_to": "651128-55-8003",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 22
+        "user_score": 22,
+        "coors": {
+            "latitude": "3.104396",
+            "longitude": "101.639012"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -753,7 +1001,11 @@
         "transacted_to": "800984-80-1247",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 58
+        "user_score": 58,
+        "coors": {
+            "latitude": "3.126313",
+            "longitude": "101.621356"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -765,7 +1017,11 @@
         "transacted_to": "714007-12-2220",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 57
+        "user_score": 57,
+        "coors": {
+            "latitude": "3.187981",
+            "longitude": "101.603369"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -777,7 +1033,11 @@
         "transacted_to": "740824-90-4060",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 30
+        "user_score": 30,
+        "coors": {
+            "latitude": "3.168830",
+            "longitude": "101.629802"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -789,7 +1049,11 @@
         "transacted_to": "769694-18-6942",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 87
+        "user_score": 87,
+        "coors": {
+            "latitude": "3.223557",
+            "longitude": "101.696050"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -801,7 +1065,11 @@
         "transacted_to": "800610-49-6309",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 18
+        "user_score": 18,
+        "coors": {
+            "latitude": "3.174506",
+            "longitude": "101.686215"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -813,7 +1081,11 @@
         "transacted_to": "462483-29-1207",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 7
+        "user_score": 7,
+        "coors": {
+            "latitude": "3.177193",
+            "longitude": "101.655316"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -825,7 +1097,11 @@
         "transacted_to": "779321-21-2194",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 45
+        "user_score": 45,
+        "coors": {
+            "latitude": "3.194002",
+            "longitude": "101.662770"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -837,7 +1113,11 @@
         "transacted_to": "199261-38-6829",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 73
+        "user_score": 73,
+        "coors": {
+            "latitude": "3.173296",
+            "longitude": "101.690365"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -849,7 +1129,11 @@
         "transacted_to": "765394-44-7584",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 99
+        "user_score": 99,
+        "coors": {
+            "latitude": "3.174659",
+            "longitude": "101.618809"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -861,7 +1145,11 @@
         "transacted_to": "457690-13-2678",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 90
+        "user_score": 90,
+        "coors": {
+            "latitude": "3.153053",
+            "longitude": "101.589487"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -873,7 +1161,11 @@
         "transacted_to": "720695-27-2599",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 80
+        "user_score": 80,
+        "coors": {
+            "latitude": "3.223339",
+            "longitude": "101.623816"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -885,7 +1177,11 @@
         "transacted_to": "734657-61-4033",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 20
+        "user_score": 20,
+        "coors": {
+            "latitude": "3.090697",
+            "longitude": "101.607532"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -897,7 +1193,11 @@
         "transacted_to": "954006-70-2853",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 28
+        "user_score": 28,
+        "coors": {
+            "latitude": "3.110335",
+            "longitude": "101.734165"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -909,7 +1209,11 @@
         "transacted_to": "563431-22-8723",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 94
+        "user_score": 94,
+        "coors": {
+            "latitude": "3.180896",
+            "longitude": "101.640844"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -921,7 +1225,11 @@
         "transacted_to": "367763-89-3432",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 2
+        "user_score": 2,
+        "coors": {
+            "latitude": "3.121251",
+            "longitude": "101.626913"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -933,7 +1241,11 @@
         "transacted_to": "551329-11-3975",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 31
+        "user_score": 31,
+        "coors": {
+            "latitude": "3.197670",
+            "longitude": "101.654056"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -945,7 +1257,11 @@
         "transacted_to": "790994-17-6539",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 74
+        "user_score": 74,
+        "coors": {
+            "latitude": "3.043174",
+            "longitude": "101.712023"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -957,7 +1273,11 @@
         "transacted_to": "955093-34-6793",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 58
+        "user_score": 58,
+        "coors": {
+            "latitude": "3.146492",
+            "longitude": "101.705803"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -969,7 +1289,11 @@
         "transacted_to": "882594-81-5536",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 31
+        "user_score": 31,
+        "coors": {
+            "latitude": "3.100672",
+            "longitude": "101.722713"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -981,7 +1305,11 @@
         "transacted_to": "410016-90-6914",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 18
+        "user_score": 18,
+        "coors": {
+            "latitude": "3.166035",
+            "longitude": "101.634485"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -993,7 +1321,11 @@
         "transacted_to": "921175-70-5292",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 54
+        "user_score": 54,
+        "coors": {
+            "latitude": "3.144694",
+            "longitude": "101.629713"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1005,7 +1337,11 @@
         "transacted_to": "889252-25-2790",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 25
+        "user_score": 25,
+        "coors": {
+            "latitude": "3.076181",
+            "longitude": "101.667030"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1017,7 +1353,11 @@
         "transacted_to": "626886-48-4677",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 2
+        "user_score": 2,
+        "coors": {
+            "latitude": "3.070522",
+            "longitude": "101.616075"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1029,7 +1369,11 @@
         "transacted_to": "985842-16-1030",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 26
+        "user_score": 26,
+        "coors": {
+            "latitude": "3.212816",
+            "longitude": "101.670685"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1041,7 +1385,11 @@
         "transacted_to": "836182-21-7536",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 26
+        "user_score": 26,
+        "coors": {
+            "latitude": "3.035823",
+            "longitude": "101.628884"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1053,7 +1401,11 @@
         "transacted_to": "284068-65-1701",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 40
+        "user_score": 40,
+        "coors": {
+            "latitude": "3.149235",
+            "longitude": "101.679272"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1065,7 +1417,11 @@
         "transacted_to": "756046-47-9204",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 70
+        "user_score": 70,
+        "coors": {
+            "latitude": "3.141753",
+            "longitude": "101.716910"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1077,7 +1433,11 @@
         "transacted_to": "550462-30-5800",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 37
+        "user_score": 37,
+        "coors": {
+            "latitude": "3.169945",
+            "longitude": "101.634761"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1089,7 +1449,11 @@
         "transacted_to": "680590-56-3595",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 6
+        "user_score": 6,
+        "coors": {
+            "latitude": "3.190621",
+            "longitude": "101.613204"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1101,7 +1465,11 @@
         "transacted_to": "311148-81-3276",
         "is_anomaly": "Yes",
         "anomaly_type": "Fraud",
-        "user_score": 60
+        "user_score": 60,
+        "coors": {
+            "latitude": "3.123794",
+            "longitude": "101.723160"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1113,7 +1481,11 @@
         "transacted_to": "406398-51-6529",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 57
+        "user_score": 57,
+        "coors": {
+            "latitude": "3.182075",
+            "longitude": "101.654869"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1125,7 +1497,11 @@
         "transacted_to": "388128-28-3358",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 10
+        "user_score": 10,
+        "coors": {
+            "latitude": "3.104775",
+            "longitude": "101.690785"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1137,7 +1513,11 @@
         "transacted_to": "977242-11-3284",
         "is_anomaly": "Yes",
         "anomaly_type": "Suspicious",
-        "user_score": 49
+        "user_score": 49,
+        "coors": {
+            "latitude": "3.086932",
+            "longitude": "101.653718"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1149,7 +1529,11 @@
         "transacted_to": "489150-99-3432",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 70
+        "user_score": 70,
+        "coors": {
+            "latitude": "3.174707",
+            "longitude": "101.688360"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1161,7 +1545,11 @@
         "transacted_to": "347462-58-5644",
         "is_anomaly": "No",
         "anomaly_type": "Suspicious",
-        "user_score": 29
+        "user_score": 29,
+        "coors": {
+            "latitude": "3.061212",
+            "longitude": "101.659561"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1173,7 +1561,11 @@
         "transacted_to": "635486-52-5077",
         "is_anomaly": "No",
         "anomaly_type": "Fraud",
-        "user_score": 71
+        "user_score": 71,
+        "coors": {
+            "latitude": "3.066872",
+            "longitude": "101.729426"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1185,7 +1577,11 @@
         "transacted_to": "749401-19-7873",
         "is_anomaly": "No",
         "anomaly_type": "",
-        "user_score": 53
+        "user_score": 53,
+        "coors": {
+            "latitude": "3.097405",
+            "longitude": "101.735626"
+        }
     },
     {
         "user_id": "720622-04-6859",
@@ -1197,6 +1593,10 @@
         "transacted_to": "198914-21-4481",
         "is_anomaly": "Yes",
         "anomaly_type": "",
-        "user_score": 70
+        "user_score": 70,
+        "coors": {
+            "latitude": "3.167387",
+            "longitude": "101.631380"
+        }
     }
 ]
