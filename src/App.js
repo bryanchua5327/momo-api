@@ -1,6 +1,8 @@
 import Home from "./Home";
 import { Routes, Route } from "react-router-dom";
 import { Helmet } from "react-helmet";
+import "./App.css"
+import Graph from "./TransactionGraph";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       </Helmet>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/trxnGraph/:id" element={<Graph />} />
+
       </Routes>
     </div>
   );

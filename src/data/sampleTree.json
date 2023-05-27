@@ -1,0 +1,193 @@
+[
+  {
+    "id":"284b846f-6ff0-403a-a7e4-aa3e8c206a1d",
+    "user_id": "970417-07-3958",
+    "transaction_id": "284b846f-6ff0-403a-a7e4-aa3e8c206a1d",
+    "client_id": 4171,
+    "transaction_date": "2023-04-05T22:35:56.684664",
+    "transaction_amount": 744,
+    "transaction_details": "Clothing",
+    "transacted_to": "835428-27-9159",
+    "is_anomaly": "Yes",
+    "anomaly_type": "Fraud",
+    "user_score": 42,
+    "child": [
+      {
+        "user_id": "835428-27-9159",
+        "transaction_id": "8ea6c705-6c2c-49fd-aca2-6e2643f56155",
+        "client_id": 4171,
+        "transaction_date": "2023-04-05T22:35:56.684664",
+        "transaction_amount": 744,
+        "transaction_details": "Clothing",
+        "transacted_to": "811104-11-9852",
+        "is_anomaly": "Yes",
+        "anomaly_type": "Fraud",
+        "user_score": 35,
+        "child": [
+          {
+            "user_id": "811104-11-9852",
+            "transaction_id": "284b846f-6ff0-403a-a7e4-aa3e8c2095873",
+            "client_id": 4171,
+            "transaction_date": "2023-04-05T22:35:56.684664",
+            "transaction_amount": 744,
+            "transaction_details": "Clothing",
+            "transacted_to": "640921-27-1234",
+            "is_anomaly": "Yes",
+            "anomaly_type": "Fraud",
+            "user_score": 42,
+            "child": [
+              {
+                "user_id": "640921-27-1234",
+                "transaction_id": "284b846f-6ff0-403a-7687-aa3e8c206a1d",
+                "client_id": 4171,
+                "transaction_date": "2023-04-05T22:35:56.684664",
+                "transaction_amount": 744,
+                "transaction_details": "Clothing",
+                "transacted_to": "835428-27-9159",
+                "is_anomaly": "Yes",
+                "anomaly_type": "Fraud",
+                "user_score": 42,
+                "child": []
+              }
+            ]
+          },
+          {
+            "user_id": "811104-11-9852",
+            "transaction_id": "284b846f-6ff0-3950-a7e4-aa3e8c206a1d",
+            "client_id": 4171,
+            "transaction_date": "2023-04-05T22:35:56.684664",
+            "transaction_amount": 744,
+            "transaction_details": "Clothing",
+            "transacted_to": "810321-11-0674",
+            "is_anomaly": "Yes",
+            "anomaly_type": "Fraud",
+            "user_score": 42,
+            "child": [
+              {
+                "user_id": "810321-11-0674",
+                "transaction_id": "284b846f-6970-403a-a7e4-aa3e8c206a1d",
+                "client_id": 4171,
+                "transaction_date": "2023-04-05T22:35:56.684664",
+                "transaction_amount": 744,
+                "transaction_details": "Clothing",
+                "transacted_to": "990211-08-3758",
+                "is_anomaly": "Yes",
+                "anomaly_type": "Fraud",
+                "user_score": 42,
+                "child": [
+                  {
+                    "user_id": "990211-08-3758",
+                    "transaction_id": "284b5668-6ff0-403a-a7e4-aa3e8c206a1d",
+                    "client_id": 4171,
+                    "transaction_date": "2023-04-05T22:35:56.684664",
+                    "transaction_amount": 744,
+                    "transaction_details": "Clothing",
+                    "transacted_to": "950427-27-3109",
+                    "is_anomaly": "Yes",
+                    "anomaly_type": "Fraud",
+                    "user_score": 42,
+                    "child": []
+                  }
+                ]
+              },
+              {
+                "user_id": "810321-11-0674",
+                "transaction_id": "284b846f-6ff0-403a-a7e4-e36t8c206a1d",
+                "client_id": 4171,
+                "transaction_date": "2023-04-05T22:35:56.684664",
+                "transaction_amount": 744,
+                "transaction_details": "Clothing",
+                "transacted_to": "920607-02-5689",
+                "is_anomaly": "Yes",
+                "anomaly_type": "Fraud",
+                "user_score": 42,
+                "child": [
+                  {
+                    "user_id": "920607-02-5689",
+                    "transaction_id": "284b846f-6ff0-403a-a7e4-y7t58c206a1d",
+                    "client_id": 4171,
+                    "transaction_date": "2023-04-05T22:35:56.684664",
+                    "transaction_amount": 744,
+                    "transaction_details": "Clothing",
+                    "transacted_to": "880808-11-5657",
+                    "is_anomaly": "Yes",
+                    "anomaly_type": "Fraud",
+                    "user_score": 42,
+                    "child": []
+                  },
+                  {
+                    "user_id": "920607-02-5689",
+                    "transaction_id": "284b846f-6ff0-403a-a7e4-w2w28c206a1d",
+                    "client_id": 4171,
+                    "transaction_date": "2023-04-05T22:35:56.684664",
+                    "transaction_amount": 744,
+                    "transaction_details": "Clothing",
+                    "transacted_to": "836428-29-9557",
+                    "is_anomaly": "Yes",
+                    "anomaly_type": "Fraud",
+                    "user_score": 42,
+                    "child": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "user_id": "811104-11-9852",
+            "transaction_id": "284b846f-6ff0-403a-a7e4-frt58c206a1d",
+            "client_id": 4171,
+            "transaction_date": "2023-04-05T22:35:56.684664",
+            "transaction_amount": 744,
+            "transaction_details": "Clothing",
+            "transacted_to": "898104-05-8852",
+            "is_anomaly": "Yes",
+            "anomaly_type": "Fraud",
+            "user_score": 42,
+            "child": [
+              {
+                "user_id": "898104-05-8852",
+                "transaction_id": "284bgty6-6ff0-403a-a7e4-aay6u7206a1d",
+                "client_id": 4171,
+                "transaction_date": "2023-04-05T22:35:56.684664",
+                "transaction_amount": 744,
+                "transaction_details": "Clothing",
+                "transacted_to": "465748-09-3144",
+                "is_anomaly": "Yes",
+                "anomaly_type": "Fraud",
+                "user_score": 42,
+                "child": [
+                  {
+                    "user_id": "465748-09-3144",
+                    "transaction_id": "284b846f-6ff0-u7u7-a7e4-aa3u7u706a1d",
+                    "client_id": 4171,
+                    "transaction_date": "2023-04-05T22:35:56.684664",
+                    "transaction_amount": 200,
+                    "transaction_details": "Clothing",
+                    "transacted_to": "000011-33-9588",
+                    "is_anomaly": "Yes",
+                    "anomaly_type": "Fraud",
+                    "user_score": 42,
+                    "child": []
+                  }
+                ]
+              },
+              {
+                "user_id": "898104-05-8852",
+                "transaction_id": "284b846f-6ff0-403a-o9o9-aa3e8c206a1d",
+                "client_id": 4171,
+                "transaction_date": "2023-04-05T22:35:56.684664",
+                "transaction_amount": 811,
+                "transaction_details": "Clothing",
+                "transacted_to": "777890-22-5647",
+                "is_anomaly": "Yes",
+                "anomaly_type": "Fraud",
+                "user_score": 42,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
