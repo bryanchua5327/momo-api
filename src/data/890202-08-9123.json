@@ -1,1201 +1,1328 @@
 [
     {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e032c4c7-9221-417d-88bb-5a31239d6050",
-      "client_id": 1005,
-      "transaction_date": "2023-05-26T09:15:00+08:00",
-      "transaction_amount": 250,
-      "transaction_details": "Electronics",
-      "transacted_to": "890802-12-3456",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "9252ed92-f324-47a8-9ef4-865a0abb7905",
-      "client_id": 1004,
-      "transaction_date": "2023-05-26T09:15:00+08:00",
-      "transaction_amount": 250,
-      "transaction_details": "Electronics",
-      "transacted_to": "890802-12-3456",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "406bc096-1238-44de-92ce-2e8ad2d47827",
-      "client_id": 1003,
-      "transaction_date": "2023-05-24T13:30:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Clothing",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "d2991f0e-01bc-4c75-8a8a-e37053cc103f",
-      "client_id": 1004,
-      "transaction_date": "2023-05-24T13:30:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Clothing",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "aac837cd-0978-42c0-8c68-ef8ddcb8b81d",
-      "client_id": 1004,
-      "transaction_date": "2023-05-20T16:45:00+08:00",
-      "transaction_amount": 50,
-      "transaction_details": "Food",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "027d1e39-22ce-41a3-85cc-edc42c1658bf",
-      "client_id": 1005,
-      "transaction_date": "2023-05-20T16:45:00+08:00",
-      "transaction_amount": 50,
-      "transaction_details": "Food",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c14e872e-3002-46e6-95f3-ee8e17400db6",
-      "client_id": 1004,
-      "transaction_date": "2023-05-18T10:00:00+08:00",
-      "transaction_amount": 75,
-      "transaction_details": "Electronics",
-      "transacted_to": "920312-09-8765",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "197d9938-4c61-43b8-9176-3d7d459f7ed0",
-      "client_id": 1004,
-      "transaction_date": "2023-05-18T10:00:00+08:00",
-      "transaction_amount": 75,
-      "transaction_details": "Electronics",
-      "transacted_to": "920312-09-8765",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "3835eaf8-346b-4a32-9840-eeb755b40382",
-      "client_id": 1004,
-      "transaction_date": "2023-05-17T08:00:00+08:00",
-      "transaction_amount": 5000,
-      "transaction_details": "Transfer",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c7687050-2740-4fcb-83bb-87a756b4d5ca",
-      "client_id": 1004,
-      "transaction_date": "2023-05-17T08:00:00+08:00",
-      "transaction_amount": 5000,
-      "transaction_details": "Transfer",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "4958316d-7fc5-4081-ae39-d767285a1008",
-      "client_id": 1002,
-      "transaction_date": "2023-05-16T11:15:00+08:00",
-      "transaction_amount": 10000,
-      "transaction_details": "Transfer",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "dcbe5177-e394-40fe-84f5-ac61dd3e008f",
-      "client_id": 1003,
-      "transaction_date": "2023-05-16T11:15:00+08:00",
-      "transaction_amount": 10000,
-      "transaction_details": "Transfer",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "11e379b4-20e9-407b-be61-8d1010144ef3",
-      "client_id": 1003,
-      "transaction_date": "2023-05-15T14:30:00+08:00",
-      "transaction_amount": 120,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c1d17a88-21fc-48be-b588-c4dcf60fed25",
-      "client_id": 1004,
-      "transaction_date": "2023-05-15T14:30:00+08:00",
-      "transaction_amount": 120,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "10c177ce-5455-4994-82a7-22c1f14b9103",
-      "client_id": 1004,
-      "transaction_date": "2023-05-14T09:45:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f8c7892c-3cbd-41b1-919b-fb869194373c",
-      "client_id": 1002,
-      "transaction_date": "2023-05-14T09:45:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "a95b472e-87c6-4719-897f-7227981bee49",
-      "client_id": 1004,
-      "transaction_date": "2023-05-13T12:00:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Clothing",
-      "transacted_to": "890202-08-9123",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8f2a1909-503c-49db-9c55-58276705ffd2",
-      "client_id": 1004,
-      "transaction_date": "2023-05-13T12:00:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Clothing",
-      "transacted_to": "890202-08-9123",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "7492495b-9d6a-450b-a11f-f0faa20841de",
-      "client_id": 1003,
-      "transaction_date": "2023-05-12T15:15:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Transfer",
-      "transacted_to": "XYZ Store",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "2b2fa870-1d16-4de8-b7ab-28068f1cca24",
-      "client_id": 1005,
-      "transaction_date": "2023-05-12T15:15:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Transfer",
-      "transacted_to": "XYZ Store",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e47630cd-44fe-4892-a364-4eab36fb6000",
-      "client_id": 1003,
-      "transaction_date": "2023-05-11T18:30:00+08:00",
-      "transaction_amount": 500,
-      "transaction_details": "Travel",
-      "transacted_to": "870712-04-3210",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "cb951d8e-4598-43b0-a527-2bb8af29a3b9",
-      "client_id": 1004,
-      "transaction_date": "2023-05-11T18:30:00+08:00",
-      "transaction_amount": 500,
-      "transaction_details": "Travel",
-      "transacted_to": "870712-04-3210",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "cadd8b59-00c9-4203-8dea-5983c2881106",
-      "client_id": 1004,
-      "transaction_date": "2023-05-10T09:45:00+08:00",
-      "transaction_amount": 150,
-      "transaction_details": "Clothing",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "7416fae1-7158-49ea-b04b-78b828b3b922",
-      "client_id": 1004,
-      "transaction_date": "2023-05-10T09:45:00+08:00",
-      "transaction_amount": 150,
-      "transaction_details": "Clothing",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e6c56a89-1b5c-41b2-94d3-ef59348e022c",
-      "client_id": 1004,
-      "transaction_date": "2023-05-09T13:00:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "5c370c6d-086d-403c-be85-0fbf1f2824da",
-      "client_id": 1004,
-      "transaction_date": "2023-05-09T13:00:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "1fd36284-4ff8-43b7-8a5e-a457fef2f467",
-      "client_id": 1002,
-      "transaction_date": "2023-05-08T16:15:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "ab76069e-873e-4a6b-9409-22c116c9dbd5",
-      "client_id": 1002,
-      "transaction_date": "2023-05-08T16:15:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "5cd948e7-6a4f-4ff3-b249-ebcabb88e505",
-      "client_id": 1004,
-      "transaction_date": "2023-05-07T10:30:00+08:00",
-      "transaction_amount": 5000,
-      "transaction_details": "Transfer",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "01e02354-78e6-4b62-8e6a-d4e16226583c",
-      "client_id": 1002,
-      "transaction_date": "2023-05-07T10:30:00+08:00",
-      "transaction_amount": 5000,
-      "transaction_details": "Transfer",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8c72fc19-d829-46a5-b206-c7bf326dc43b",
-      "client_id": 1002,
-      "transaction_date": "2023-05-06T13:45:00+08:00",
-      "transaction_amount": 10000,
-      "transaction_details": "Transfer",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c6c0f75e-85fc-41cd-a543-cf8ea490c8c2",
-      "client_id": 1003,
-      "transaction_date": "2023-05-06T13:45:00+08:00",
-      "transaction_amount": 10000,
-      "transaction_details": "Transfer",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "Yes",
-      "anomaly type": "abnormal"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "23db8aa5-1dbb-4f53-b592-022f6c03f838",
-      "client_id": 1002,
-      "transaction_date": "2023-05-05T17:00:00+08:00",
-      "transaction_amount": 120,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "9415fd39-e2f6-4698-8cde-7e1a45e02403",
-      "client_id": 1003,
-      "transaction_date": "2023-05-05T17:00:00+08:00",
-      "transaction_amount": 120,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "62dcdd13-c237-4050-ba53-b4bc4fd21dbe",
-      "client_id": 1005,
-      "transaction_date": "2023-05-04T20:15:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e61d9931-6696-4946-be06-0c08f52f7893",
-      "client_id": 1003,
-      "transaction_date": "2023-05-04T20:15:00+08:00",
-      "transaction_amount": 300,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "4bbe2d5d-84b4-4eaf-a805-3d2a5b8e5ca1",
-      "client_id": 1005,
-      "transaction_date": "2023-05-03T09:30:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Clothing",
-      "transacted_to": "890202-08-9123",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "17d2f25a-0d5d-4be0-bd59-38b8753b5789",
-      "client_id": 1003,
-      "transaction_date": "2023-05-03T09:30:00+08:00",
-      "transaction_amount": 200,
-      "transaction_details": "Clothing",
-      "transacted_to": "890202-08-9123",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "18d8b85b-7887-4081-9971-6a45973ed351",
-      "client_id": 1005,
-      "transaction_date": "2023-05-02T12:45:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Transfer",
-      "transacted_to": "XYZ Store",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "a0d098f3-ea0f-432c-8593-bf16ae21ebb7",
-      "client_id": 1004,
-      "transaction_date": "2023-05-02T12:45:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Transfer",
-      "transacted_to": "XYZ Store",
-      "is_anomaly": "Yes",
-      "anomaly type": "unusual"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "dcc4ebcd-59ec-4cc4-bdd8-984692c8792c",
-      "client_id": 1003,
-      "transaction_date": "2023-05-01T16:00:00+08:00",
-      "transaction_amount": 500,
-      "transaction_details": "Travel",
-      "transacted_to": "870712-04-3210",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "3747d10a-2688-4027-90ee-88fc83e9209f",
-      "client_id": 1005,
-      "transaction_date": "2023-05-01T16:00:00+08:00",
-      "transaction_amount": 500,
-      "transaction_details": "Travel",
-      "transacted_to": "870712-04-3210",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e5048ea4-e599-4235-aef0-d40327ccb8b3",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T19:15:00+08:00",
-      "transaction_amount": 20,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "1f777353-4dda-4b5c-8a81-b983fa8dde40",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T19:15:00+08:00",
-      "transaction_amount": 25,
-      "transaction_details": "Groceries",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "53fd98ab-b77e-4309-a73e-4bb32b411037",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T19:00:00+08:00",
-      "transaction_amount": 18,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c5f21ecd-ba34-4d95-85d9-fc39c71a466a",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T19:00:00+08:00",
-      "transaction_amount": 30,
-      "transaction_details": "Entertainment",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "add28b0b-acaa-466d-9d69-d332d3173275",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T18:45:00+08:00",
-      "transaction_amount": 23,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "3dd484a6-bd88-4bc6-b645-5327082fd3e6",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T18:45:00+08:00",
-      "transaction_amount": 15,
-      "transaction_details": "Utilities",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "6199956b-1653-4498-996c-be833e17d446",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T18:30:00+08:00",
-      "transaction_amount": 22,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "b73155dc-629f-4969-8170-56398a927f2b",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T18:30:00+08:00",
-      "transaction_amount": 40,
-      "transaction_details": "Home Decor",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "84026fd3-ff78-41e4-ad96-e99994e03c02",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T18:15:00+08:00",
-      "transaction_amount": 21,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "07a52a8b-f724-4f0a-897c-28270ead27dd",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T18:15:00+08:00",
-      "transaction_amount": 60,
-      "transaction_details": "Healthcare",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8a2bc599-4cfd-4632-bde9-d70127641e80",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T18:00:00+08:00",
-      "transaction_amount": 19,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "1daf939e-dc93-4515-aa7a-95e16d0f5176",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T18:00:00+08:00",
-      "transaction_amount": 75,
-      "transaction_details": "Books",
-      "transacted_to": "890802-12-3456",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "08f9597c-0da8-40ca-8529-f7cc65a41f49",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T17:45:00+08:00",
-      "transaction_amount": 24,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "05d24e7f-504f-4932-9934-199634020176",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T17:45:00+08:00",
-      "transaction_amount": 80,
-      "transaction_details": "Jewelry",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "288c1939-dfd4-4abc-aad2-edba49715057",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T17:30:00+08:00",
-      "transaction_amount": 17,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "2e6c03c7-8542-4b2d-aafc-aa11e859d8cd",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T17:30:00+08:00",
-      "transaction_amount": 35,
-      "transaction_details": "Beauty Products",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "81160d6e-5c7a-48e4-8be2-4d3fa51e91e6",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T17:15:00+08:00",
-      "transaction_amount": 16,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "287753db-9b54-4b17-a59a-eb5cf494e4b8",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T17:15:00+08:00",
-      "transaction_amount": 50,
-      "transaction_details": "Sports Equipment",
-      "transacted_to": "920312-09-8765",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "4189c8fc-4b0d-4bca-9746-08261fa90387",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T17:00:00+08:00",
-      "transaction_amount": 25,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "479e0ae2-f5b8-4146-a664-dc161ef1b989",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T17:00:00+08:00",
-      "transaction_amount": 120,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "97effa55-6852-4e46-a22c-731445a2bc62",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T16:45:00+08:00",
-      "transaction_amount": 20,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e81005ef-822a-4729-bc46-bd3eb41d872a",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T16:45:00+08:00",
-      "transaction_amount": 60,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f3e215eb-bc7e-44f4-97cf-eb0ee9519119",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T16:30:00+08:00",
-      "transaction_amount": 18,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "7819c0f8-c517-4314-bd17-d8d4e3b99c5e",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T16:30:00+08:00",
-      "transaction_amount": 70,
-      "transaction_details": "Clothing",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "1ac4ee9e-d31e-4bd8-a1ca-eee1b3a1eaaf",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T16:15:00+08:00",
-      "transaction_amount": 22,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "23917b2f-f1c8-44b5-9aed-38a3f0effe11",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T16:15:00+08:00",
-      "transaction_amount": 40,
-      "transaction_details": "Groceries",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "7a5cfe9f-6ed8-403f-9b00-69fda4daec3c",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T16:00:00+08:00",
-      "transaction_amount": 19,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "520b26c2-9138-4bd1-bbab-c1b183f7fcf3",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T16:00:00+08:00",
-      "transaction_amount": 25,
-      "transaction_details": "Entertainment",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "787a949a-d062-4a06-acf4-06a40d7c03e5",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:45:00+08:00",
-      "transaction_amount": 21,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "a9bc2932-4e4b-40e9-abd9-25a2af1695fe",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:45:00+08:00",
-      "transaction_amount": 30,
-      "transaction_details": "Utilities",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f63966a2-821c-410e-9457-ac5ba062cc13",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:30:00+08:00",
-      "transaction_amount": 17,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "565145df-5682-4b62-924b-c0b7d93c41bf",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:30:00+08:00",
-      "transaction_amount": 50,
-      "transaction_details": "Home Decor",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "25ab0486-3217-40a8-a07e-bd70ffc3bf75",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T15:15:00+08:00",
-      "transaction_amount": 23,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "c90f3e5c-d124-4600-b599-ce793e30fac0",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:15:00+08:00",
-      "transaction_amount": 60,
-      "transaction_details": "Healthcare",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8c8058f0-9a29-458a-82ea-40bece89774b",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T15:00:00+08:00",
-      "transaction_amount": 18,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8363a046-90eb-491f-9b7e-404f40b5b5e5",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T15:00:00+08:00",
-      "transaction_amount": 80,
-      "transaction_details": "Books",
-      "transacted_to": "890802-12-3456",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "380739e0-448a-4ba1-acec-d4a37f91a1eb",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T14:45:00+08:00",
-      "transaction_amount": 25,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "54438d95-73f0-4035-8c6a-b0ddbe35f170",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T14:45:00+08:00",
-      "transaction_amount": 90,
-      "transaction_details": "Jewelry",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "966359ec-7ae9-4bf5-a626-2e9114d8a707",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T14:30:00+08:00",
-      "transaction_amount": 20,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "b9b57e03-fdd9-46ae-ac0a-451accb4308c",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T14:30:00+08:00",
-      "transaction_amount": 40,
-      "transaction_details": "Beauty Products",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8ed9ef01-138d-4086-974a-e30a2c31b0f2",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T14:15:00+08:00",
-      "transaction_amount": 19,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "57742782-ba8f-411b-9bdd-463459145513",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T14:15:00+08:00",
-      "transaction_amount": 55,
-      "transaction_details": "Sports Equipment",
-      "transacted_to": "920312-09-8765",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "a3c1ef6d-e33a-4b27-841f-8c8d74d312d2",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T14:00:00+08:00",
-      "transaction_amount": 22,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "41e4e273-dd93-419b-8bde-55ee7f5c6a8c",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T14:00:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "554eb889-076f-48ed-876a-404c9fc921a1",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T13:45:00+08:00",
-      "transaction_amount": 17,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "18f0b2b5-14f4-4cf4-b5e6-bdef13b349d3",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T13:45:00+08:00",
-      "transaction_amount": 70,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "42b18d19-52ed-469a-a8a5-5c19087a399c",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T13:30:00+08:00",
-      "transaction_amount": 24,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "b00ea3a3-4eb3-4a6e-bf8b-7f6bf164568d",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T13:30:00+08:00",
-      "transaction_amount": 80,
-      "transaction_details": "Clothing",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "6e9c08ff-52a1-4177-993f-876636b9124b",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T13:15:00+08:00",
-      "transaction_amount": 16,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "8ad5e1d7-0046-41e4-a19f-ae9a43c10233",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T13:15:00+08:00",
-      "transaction_amount": 45,
-      "transaction_details": "Groceries",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "799d7053-6fc6-43e1-b88b-9f60123335a5",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T13:00:00+08:00",
-      "transaction_amount": 21,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f889de2d-6d36-4f11-a741-c4b35b204202",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T13:00:00+08:00",
-      "transaction_amount": 35,
-      "transaction_details": "Entertainment",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "bb237186-d48d-4400-a549-3d1402259134",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T12:45:00+08:00",
-      "transaction_amount": 18,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "6da5f1df-54ea-43f6-a4d9-33e05aa001d4",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T12:45:00+08:00",
-      "transaction_amount": 25,
-      "transaction_details": "Utilities",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "b669182d-f4a6-4c01-8a4e-71fd269c7947",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T12:30:00+08:00",
-      "transaction_amount": 23,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "2f3bde9b-dc17-4397-a58d-166a6df971b2",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T12:30:00+08:00",
-      "transaction_amount": 60,
-      "transaction_details": "Home Decor",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "d698d6ef-075e-462a-adc0-37493a4835af",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T12:15:00+08:00",
-      "transaction_amount": 20,
-      "transaction_details": "Facebook Ads",
-      "transacted_to": "Facebook",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated,scam"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f1e940af-9913-43d2-b3ac-87a7b6268e8f",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T12:15:00+08:00",
-      "transaction_amount": 75,
-      "transaction_details": "Healthcare",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "89539c69-6eed-4a5f-b6aa-8e9e86eaeac9",
-      "client_id": 1003,
-      "transaction_date": "2023-04-30T12:00:00+08:00",
-      "transaction_amount": 90,
-      "transaction_details": "Books",
-      "transacted_to": "890802-12-3456",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f4938070-a0fd-4e25-8d7d-fd8e4b6369a0",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T11:45:00+08:00",
-      "transaction_amount": 100,
-      "transaction_details": "Jewelry",
-      "transacted_to": "921231-14-5679",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "5ed52319-29f5-4b01-9bac-9092a8d701f8",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T11:30:00+08:00",
-      "transaction_amount": 50,
-      "transaction_details": "Beauty Products",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "986eae2d-230c-48f9-8137-a65b3692721c",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T11:15:00+08:00",
-      "transaction_amount": 65,
-      "transaction_details": "Sports Equipment",
-      "transacted_to": "920312-09-8765",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "affb7b69-29e5-4b1a-beac-2e3280d26f5d",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T11:00:00+08:00",
-      "transaction_amount": 80,
-      "transaction_details": "Food",
-      "transacted_to": "800928-08-7654",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "f76b04b5-4c94-4aca-a33f-72479f4b2468",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T10:45:00+08:00",
-      "transaction_amount": 70,
-      "transaction_details": "Electronics",
-      "transacted_to": "850625-07-8910",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "e19bc34a-f4fa-4e37-a15d-6fdd18afe49a",
-      "client_id": 1005,
-      "transaction_date": "2023-04-30T10:30:00+08:00",
-      "transaction_amount": 90,
-      "transaction_details": "Clothing",
-      "transacted_to": "910215-05-4321",
-      "is_anomaly": "No",
-      "anomaly type": ""
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "85bf2d0b-3ded-40c0-a484-e0a09f4914a1",
-      "client_id": 1004,
-      "transaction_date": "2023-04-30T10:15:00+08:00",
-      "transaction_amount": 55,
-      "transaction_details": "Groceries",
-      "transacted_to": "890202-08-8192",
-      "is_anomaly": "Yes",
-      "anomaly type": "repeated"
-    },
-    {
-      "user_id": "890202-08-9123",
-      "transaction_id": "b8c678f0-b78d-45f1-b256-514078c6189d",
-      "client_id": 1002,
-      "transaction_date": "2023-04-30T10:00:00+08:00",
-      "transaction_amount": 45,
-      "transaction_details": "Entertainment",
-      "transacted_to": "900101-01-1001",
-      "is_anomaly": "No",
-      "anomaly type": ""
+        "user_id": "890202-08-9123",
+        "transaction_id": "e032c4c7-9221-417d-88bb-5a31239d6050",
+        "client_id": 1005,
+        "transaction_date": "2023-05-26T09:15:00+08:00",
+        "transaction_amount": 250,
+        "transaction_details": "Electronics",
+        "transacted_to": "890802-12-3456",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "9252ed92-f324-47a8-9ef4-865a0abb7905",
+        "client_id": 1004,
+        "transaction_date": "2023-05-26T09:15:00+08:00",
+        "transaction_amount": 250,
+        "transaction_details": "Electronics",
+        "transacted_to": "890802-12-3456",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "406bc096-1238-44de-92ce-2e8ad2d47827",
+        "client_id": 1003,
+        "transaction_date": "2023-05-24T13:30:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Clothing",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "d2991f0e-01bc-4c75-8a8a-e37053cc103f",
+        "client_id": 1004,
+        "transaction_date": "2023-05-24T13:30:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Clothing",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "aac837cd-0978-42c0-8c68-ef8ddcb8b81d",
+        "client_id": 1004,
+        "transaction_date": "2023-05-20T16:45:00+08:00",
+        "transaction_amount": 50,
+        "transaction_details": "Food",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "027d1e39-22ce-41a3-85cc-edc42c1658bf",
+        "client_id": 1005,
+        "transaction_date": "2023-05-20T16:45:00+08:00",
+        "transaction_amount": 50,
+        "transaction_details": "Food",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c14e872e-3002-46e6-95f3-ee8e17400db6",
+        "client_id": 1004,
+        "transaction_date": "2023-05-18T10:00:00+08:00",
+        "transaction_amount": 75,
+        "transaction_details": "Electronics",
+        "transacted_to": "920312-09-8765",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "197d9938-4c61-43b8-9176-3d7d459f7ed0",
+        "client_id": 1004,
+        "transaction_date": "2023-05-18T10:00:00+08:00",
+        "transaction_amount": 75,
+        "transaction_details": "Electronics",
+        "transacted_to": "920312-09-8765",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "3835eaf8-346b-4a32-9840-eeb755b40382",
+        "client_id": 1004,
+        "transaction_date": "2023-05-17T08:00:00+08:00",
+        "transaction_amount": 5000,
+        "transaction_details": "Transfer",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c7687050-2740-4fcb-83bb-87a756b4d5ca",
+        "client_id": 1004,
+        "transaction_date": "2023-05-17T08:00:00+08:00",
+        "transaction_amount": 5000,
+        "transaction_details": "Transfer",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "4958316d-7fc5-4081-ae39-d767285a1008",
+        "client_id": 1002,
+        "transaction_date": "2023-05-16T11:15:00+08:00",
+        "transaction_amount": 10000,
+        "transaction_details": "Transfer",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "dcbe5177-e394-40fe-84f5-ac61dd3e008f",
+        "client_id": 1003,
+        "transaction_date": "2023-05-16T11:15:00+08:00",
+        "transaction_amount": 10000,
+        "transaction_details": "Transfer",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "11e379b4-20e9-407b-be61-8d1010144ef3",
+        "client_id": 1003,
+        "transaction_date": "2023-05-15T14:30:00+08:00",
+        "transaction_amount": 120,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c1d17a88-21fc-48be-b588-c4dcf60fed25",
+        "client_id": 1004,
+        "transaction_date": "2023-05-15T14:30:00+08:00",
+        "transaction_amount": 120,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "10c177ce-5455-4994-82a7-22c1f14b9103",
+        "client_id": 1004,
+        "transaction_date": "2023-05-14T09:45:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f8c7892c-3cbd-41b1-919b-fb869194373c",
+        "client_id": 1002,
+        "transaction_date": "2023-05-14T09:45:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "a95b472e-87c6-4719-897f-7227981bee49",
+        "client_id": 1004,
+        "transaction_date": "2023-05-13T12:00:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Clothing",
+        "transacted_to": "890202-08-9123",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8f2a1909-503c-49db-9c55-58276705ffd2",
+        "client_id": 1004,
+        "transaction_date": "2023-05-13T12:00:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Clothing",
+        "transacted_to": "890202-08-9123",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "7492495b-9d6a-450b-a11f-f0faa20841de",
+        "client_id": 1003,
+        "transaction_date": "2023-05-12T15:15:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Transfer",
+        "transacted_to": "XYZ Store",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "2b2fa870-1d16-4de8-b7ab-28068f1cca24",
+        "client_id": 1005,
+        "transaction_date": "2023-05-12T15:15:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Transfer",
+        "transacted_to": "XYZ Store",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e47630cd-44fe-4892-a364-4eab36fb6000",
+        "client_id": 1003,
+        "transaction_date": "2023-05-11T18:30:00+08:00",
+        "transaction_amount": 500,
+        "transaction_details": "Travel",
+        "transacted_to": "870712-04-3210",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "cb951d8e-4598-43b0-a527-2bb8af29a3b9",
+        "client_id": 1004,
+        "transaction_date": "2023-05-11T18:30:00+08:00",
+        "transaction_amount": 500,
+        "transaction_details": "Travel",
+        "transacted_to": "870712-04-3210",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "cadd8b59-00c9-4203-8dea-5983c2881106",
+        "client_id": 1004,
+        "transaction_date": "2023-05-10T09:45:00+08:00",
+        "transaction_amount": 150,
+        "transaction_details": "Clothing",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "7416fae1-7158-49ea-b04b-78b828b3b922",
+        "client_id": 1004,
+        "transaction_date": "2023-05-10T09:45:00+08:00",
+        "transaction_amount": 150,
+        "transaction_details": "Clothing",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e6c56a89-1b5c-41b2-94d3-ef59348e022c",
+        "client_id": 1004,
+        "transaction_date": "2023-05-09T13:00:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "5c370c6d-086d-403c-be85-0fbf1f2824da",
+        "client_id": 1004,
+        "transaction_date": "2023-05-09T13:00:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "1fd36284-4ff8-43b7-8a5e-a457fef2f467",
+        "client_id": 1002,
+        "transaction_date": "2023-05-08T16:15:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "ab76069e-873e-4a6b-9409-22c116c9dbd5",
+        "client_id": 1002,
+        "transaction_date": "2023-05-08T16:15:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "5cd948e7-6a4f-4ff3-b249-ebcabb88e505",
+        "client_id": 1004,
+        "transaction_date": "2023-05-07T10:30:00+08:00",
+        "transaction_amount": 5000,
+        "transaction_details": "Transfer",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "01e02354-78e6-4b62-8e6a-d4e16226583c",
+        "client_id": 1002,
+        "transaction_date": "2023-05-07T10:30:00+08:00",
+        "transaction_amount": 5000,
+        "transaction_details": "Transfer",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8c72fc19-d829-46a5-b206-c7bf326dc43b",
+        "client_id": 1002,
+        "transaction_date": "2023-05-06T13:45:00+08:00",
+        "transaction_amount": 10000,
+        "transaction_details": "Transfer",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c6c0f75e-85fc-41cd-a543-cf8ea490c8c2",
+        "client_id": 1003,
+        "transaction_date": "2023-05-06T13:45:00+08:00",
+        "transaction_amount": 10000,
+        "transaction_details": "Transfer",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "abnormal"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "23db8aa5-1dbb-4f53-b592-022f6c03f838",
+        "client_id": 1002,
+        "transaction_date": "2023-05-05T17:00:00+08:00",
+        "transaction_amount": 120,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "9415fd39-e2f6-4698-8cde-7e1a45e02403",
+        "client_id": 1003,
+        "transaction_date": "2023-05-05T17:00:00+08:00",
+        "transaction_amount": 120,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "62dcdd13-c237-4050-ba53-b4bc4fd21dbe",
+        "client_id": 1005,
+        "transaction_date": "2023-05-04T20:15:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e61d9931-6696-4946-be06-0c08f52f7893",
+        "client_id": 1003,
+        "transaction_date": "2023-05-04T20:15:00+08:00",
+        "transaction_amount": 300,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "4bbe2d5d-84b4-4eaf-a805-3d2a5b8e5ca1",
+        "client_id": 1005,
+        "transaction_date": "2023-05-03T09:30:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Clothing",
+        "transacted_to": "890202-08-9123",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "17d2f25a-0d5d-4be0-bd59-38b8753b5789",
+        "client_id": 1003,
+        "transaction_date": "2023-05-03T09:30:00+08:00",
+        "transaction_amount": 200,
+        "transaction_details": "Clothing",
+        "transacted_to": "890202-08-9123",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "18d8b85b-7887-4081-9971-6a45973ed351",
+        "client_id": 1005,
+        "transaction_date": "2023-05-02T12:45:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Transfer",
+        "transacted_to": "XYZ Store",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "a0d098f3-ea0f-432c-8593-bf16ae21ebb7",
+        "client_id": 1004,
+        "transaction_date": "2023-05-02T12:45:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Transfer",
+        "transacted_to": "XYZ Store",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "unusual"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "dcc4ebcd-59ec-4cc4-bdd8-984692c8792c",
+        "client_id": 1003,
+        "transaction_date": "2023-05-01T16:00:00+08:00",
+        "transaction_amount": 500,
+        "transaction_details": "Travel",
+        "transacted_to": "870712-04-3210",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "3747d10a-2688-4027-90ee-88fc83e9209f",
+        "client_id": 1005,
+        "transaction_date": "2023-05-01T16:00:00+08:00",
+        "transaction_amount": 500,
+        "transaction_details": "Travel",
+        "transacted_to": "870712-04-3210",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e5048ea4-e599-4235-aef0-d40327ccb8b3",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T19:15:00+08:00",
+        "transaction_amount": 20,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "1f777353-4dda-4b5c-8a81-b983fa8dde40",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T19:15:00+08:00",
+        "transaction_amount": 25,
+        "transaction_details": "Groceries",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "53fd98ab-b77e-4309-a73e-4bb32b411037",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T19:00:00+08:00",
+        "transaction_amount": 18,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c5f21ecd-ba34-4d95-85d9-fc39c71a466a",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T19:00:00+08:00",
+        "transaction_amount": 30,
+        "transaction_details": "Entertainment",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "add28b0b-acaa-466d-9d69-d332d3173275",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T18:45:00+08:00",
+        "transaction_amount": 23,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "3dd484a6-bd88-4bc6-b645-5327082fd3e6",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T18:45:00+08:00",
+        "transaction_amount": 15,
+        "transaction_details": "Utilities",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "6199956b-1653-4498-996c-be833e17d446",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T18:30:00+08:00",
+        "transaction_amount": 22,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "b73155dc-629f-4969-8170-56398a927f2b",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T18:30:00+08:00",
+        "transaction_amount": 40,
+        "transaction_details": "Home Decor",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "84026fd3-ff78-41e4-ad96-e99994e03c02",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T18:15:00+08:00",
+        "transaction_amount": 21,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "07a52a8b-f724-4f0a-897c-28270ead27dd",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T18:15:00+08:00",
+        "transaction_amount": 60,
+        "transaction_details": "Healthcare",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8a2bc599-4cfd-4632-bde9-d70127641e80",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T18:00:00+08:00",
+        "transaction_amount": 19,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "1daf939e-dc93-4515-aa7a-95e16d0f5176",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T18:00:00+08:00",
+        "transaction_amount": 75,
+        "transaction_details": "Books",
+        "transacted_to": "890802-12-3456",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "08f9597c-0da8-40ca-8529-f7cc65a41f49",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T17:45:00+08:00",
+        "transaction_amount": 24,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "05d24e7f-504f-4932-9934-199634020176",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T17:45:00+08:00",
+        "transaction_amount": 80,
+        "transaction_details": "Jewelry",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "288c1939-dfd4-4abc-aad2-edba49715057",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T17:30:00+08:00",
+        "transaction_amount": 17,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "2e6c03c7-8542-4b2d-aafc-aa11e859d8cd",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T17:30:00+08:00",
+        "transaction_amount": 35,
+        "transaction_details": "Beauty Products",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "81160d6e-5c7a-48e4-8be2-4d3fa51e91e6",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T17:15:00+08:00",
+        "transaction_amount": 16,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "287753db-9b54-4b17-a59a-eb5cf494e4b8",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T17:15:00+08:00",
+        "transaction_amount": 50,
+        "transaction_details": "Sports Equipment",
+        "transacted_to": "920312-09-8765",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "4189c8fc-4b0d-4bca-9746-08261fa90387",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T17:00:00+08:00",
+        "transaction_amount": 25,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "479e0ae2-f5b8-4146-a664-dc161ef1b989",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T17:00:00+08:00",
+        "transaction_amount": 120,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "97effa55-6852-4e46-a22c-731445a2bc62",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T16:45:00+08:00",
+        "transaction_amount": 20,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e81005ef-822a-4729-bc46-bd3eb41d872a",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T16:45:00+08:00",
+        "transaction_amount": 60,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f3e215eb-bc7e-44f4-97cf-eb0ee9519119",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T16:30:00+08:00",
+        "transaction_amount": 18,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "7819c0f8-c517-4314-bd17-d8d4e3b99c5e",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T16:30:00+08:00",
+        "transaction_amount": 70,
+        "transaction_details": "Clothing",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "1ac4ee9e-d31e-4bd8-a1ca-eee1b3a1eaaf",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T16:15:00+08:00",
+        "transaction_amount": 22,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "23917b2f-f1c8-44b5-9aed-38a3f0effe11",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T16:15:00+08:00",
+        "transaction_amount": 40,
+        "transaction_details": "Groceries",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "7a5cfe9f-6ed8-403f-9b00-69fda4daec3c",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T16:00:00+08:00",
+        "transaction_amount": 19,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "520b26c2-9138-4bd1-bbab-c1b183f7fcf3",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T16:00:00+08:00",
+        "transaction_amount": 25,
+        "transaction_details": "Entertainment",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "787a949a-d062-4a06-acf4-06a40d7c03e5",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:45:00+08:00",
+        "transaction_amount": 21,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "a9bc2932-4e4b-40e9-abd9-25a2af1695fe",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:45:00+08:00",
+        "transaction_amount": 30,
+        "transaction_details": "Utilities",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f63966a2-821c-410e-9457-ac5ba062cc13",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:30:00+08:00",
+        "transaction_amount": 17,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "565145df-5682-4b62-924b-c0b7d93c41bf",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:30:00+08:00",
+        "transaction_amount": 50,
+        "transaction_details": "Home Decor",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "25ab0486-3217-40a8-a07e-bd70ffc3bf75",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T15:15:00+08:00",
+        "transaction_amount": 23,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "c90f3e5c-d124-4600-b599-ce793e30fac0",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:15:00+08:00",
+        "transaction_amount": 60,
+        "transaction_details": "Healthcare",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8c8058f0-9a29-458a-82ea-40bece89774b",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T15:00:00+08:00",
+        "transaction_amount": 18,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8363a046-90eb-491f-9b7e-404f40b5b5e5",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T15:00:00+08:00",
+        "transaction_amount": 80,
+        "transaction_details": "Books",
+        "transacted_to": "890802-12-3456",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "380739e0-448a-4ba1-acec-d4a37f91a1eb",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T14:45:00+08:00",
+        "transaction_amount": 25,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "54438d95-73f0-4035-8c6a-b0ddbe35f170",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T14:45:00+08:00",
+        "transaction_amount": 90,
+        "transaction_details": "Jewelry",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "966359ec-7ae9-4bf5-a626-2e9114d8a707",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T14:30:00+08:00",
+        "transaction_amount": 20,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "b9b57e03-fdd9-46ae-ac0a-451accb4308c",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T14:30:00+08:00",
+        "transaction_amount": 40,
+        "transaction_details": "Beauty Products",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8ed9ef01-138d-4086-974a-e30a2c31b0f2",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T14:15:00+08:00",
+        "transaction_amount": 19,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "57742782-ba8f-411b-9bdd-463459145513",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T14:15:00+08:00",
+        "transaction_amount": 55,
+        "transaction_details": "Sports Equipment",
+        "transacted_to": "920312-09-8765",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "a3c1ef6d-e33a-4b27-841f-8c8d74d312d2",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T14:00:00+08:00",
+        "transaction_amount": 22,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "41e4e273-dd93-419b-8bde-55ee7f5c6a8c",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T14:00:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "554eb889-076f-48ed-876a-404c9fc921a1",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T13:45:00+08:00",
+        "transaction_amount": 17,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "18f0b2b5-14f4-4cf4-b5e6-bdef13b349d3",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T13:45:00+08:00",
+        "transaction_amount": 70,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "42b18d19-52ed-469a-a8a5-5c19087a399c",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T13:30:00+08:00",
+        "transaction_amount": 24,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "b00ea3a3-4eb3-4a6e-bf8b-7f6bf164568d",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T13:30:00+08:00",
+        "transaction_amount": 80,
+        "transaction_details": "Clothing",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "6e9c08ff-52a1-4177-993f-876636b9124b",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T13:15:00+08:00",
+        "transaction_amount": 16,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "8ad5e1d7-0046-41e4-a19f-ae9a43c10233",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T13:15:00+08:00",
+        "transaction_amount": 45,
+        "transaction_details": "Groceries",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "799d7053-6fc6-43e1-b88b-9f60123335a5",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T13:00:00+08:00",
+        "transaction_amount": 21,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f889de2d-6d36-4f11-a741-c4b35b204202",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T13:00:00+08:00",
+        "transaction_amount": 35,
+        "transaction_details": "Entertainment",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "bb237186-d48d-4400-a549-3d1402259134",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T12:45:00+08:00",
+        "transaction_amount": 18,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "6da5f1df-54ea-43f6-a4d9-33e05aa001d4",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T12:45:00+08:00",
+        "transaction_amount": 25,
+        "transaction_details": "Utilities",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "b669182d-f4a6-4c01-8a4e-71fd269c7947",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T12:30:00+08:00",
+        "transaction_amount": 23,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "2f3bde9b-dc17-4397-a58d-166a6df971b2",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T12:30:00+08:00",
+        "transaction_amount": 60,
+        "transaction_details": "Home Decor",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "d698d6ef-075e-462a-adc0-37493a4835af",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T12:15:00+08:00",
+        "transaction_amount": 20,
+        "transaction_details": "Facebook Ads",
+        "transacted_to": "Facebook",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated",
+            "scam"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f1e940af-9913-43d2-b3ac-87a7b6268e8f",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T12:15:00+08:00",
+        "transaction_amount": 75,
+        "transaction_details": "Healthcare",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "89539c69-6eed-4a5f-b6aa-8e9e86eaeac9",
+        "client_id": 1003,
+        "transaction_date": "2023-04-30T12:00:00+08:00",
+        "transaction_amount": 90,
+        "transaction_details": "Books",
+        "transacted_to": "890802-12-3456",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f4938070-a0fd-4e25-8d7d-fd8e4b6369a0",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T11:45:00+08:00",
+        "transaction_amount": 100,
+        "transaction_details": "Jewelry",
+        "transacted_to": "921231-14-5679",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "5ed52319-29f5-4b01-9bac-9092a8d701f8",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T11:30:00+08:00",
+        "transaction_amount": 50,
+        "transaction_details": "Beauty Products",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "986eae2d-230c-48f9-8137-a65b3692721c",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T11:15:00+08:00",
+        "transaction_amount": 65,
+        "transaction_details": "Sports Equipment",
+        "transacted_to": "920312-09-8765",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "affb7b69-29e5-4b1a-beac-2e3280d26f5d",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T11:00:00+08:00",
+        "transaction_amount": 80,
+        "transaction_details": "Food",
+        "transacted_to": "800928-08-7654",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "f76b04b5-4c94-4aca-a33f-72479f4b2468",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T10:45:00+08:00",
+        "transaction_amount": 70,
+        "transaction_details": "Electronics",
+        "transacted_to": "850625-07-8910",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "e19bc34a-f4fa-4e37-a15d-6fdd18afe49a",
+        "client_id": 1005,
+        "transaction_date": "2023-04-30T10:30:00+08:00",
+        "transaction_amount": 90,
+        "transaction_details": "Clothing",
+        "transacted_to": "910215-05-4321",
+        "is_anomaly": "No",
+        "anomaly_type": []
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "85bf2d0b-3ded-40c0-a484-e0a09f4914a1",
+        "client_id": 1004,
+        "transaction_date": "2023-04-30T10:15:00+08:00",
+        "transaction_amount": 55,
+        "transaction_details": "Groceries",
+        "transacted_to": "890202-08-8192",
+        "is_anomaly": "Yes",
+        "anomaly_type": [
+            "repeated"
+        ]
+    },
+    {
+        "user_id": "890202-08-9123",
+        "transaction_id": "b8c678f0-b78d-45f1-b256-514078c6189d",
+        "client_id": 1002,
+        "transaction_date": "2023-04-30T10:00:00+08:00",
+        "transaction_amount": 45,
+        "transaction_details": "Entertainment",
+        "transacted_to": "900101-01-1001",
+        "is_anomaly": "No",
+        "anomaly_type": []
     }
-   ]
+]
