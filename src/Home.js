@@ -5,6 +5,7 @@ import { fetchUserTransactions } from "./utils/api";
 import MalaysiaMap from "./components/MalaysiaMap";
 // import NetworkGraph from "./components/NetworkGraph";
 import { ClientMap, ClientImageMap } from "./state/client";
+import { UserMap } from "./state/users";
 // fetchUserTransactions("970417-07-3958");
 
 export default function Home() {
@@ -161,7 +162,7 @@ export default function Home() {
               <Row gutter={[16, 16]}>
                 <Col span={8}>
                   <Card>
-                    <Statistic title="Name" value={`Sachdave Singh`} />
+                    <Statistic title="Name" value={UserMap[searchValue]} />
                   </Card>
                 </Col>
 
